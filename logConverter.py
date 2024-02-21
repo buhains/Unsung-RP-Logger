@@ -78,8 +78,17 @@ def cleanFile(fileName, fileTitle):
         "Halicarnassus",
         "Maduin",
         "Marilith",
-        "Seraph"
+        "Seraph",
+        "Behemoth",
+        "Excalibur",
+        "Exodus",
+        "Famfrit",
+        "Hyperion",
+        "Lamia",
+        "Leviathan",
+        "Ultros"
     ]
+    
     for server in servers:
         newLines = [line.replace(f" [{server}]", "") for line in newLines]
     return newLines

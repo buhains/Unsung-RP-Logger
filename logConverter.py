@@ -32,52 +32,56 @@ def cleanFile(fileName, fileTitle):
  
     # Remove tells, Gobchat artifacts, and command errors from log
     for line in rawLines:
-        if "TellRecieve:" in line or "TellSend:" in line or "Error:" in line or "Chatlogger" in line or "Gobchat" in line:
-            continue
-        else:
+        artifacts = ["TellRecieve:", "TellSend:", "Error:", "Chatlogger", "Gobchat"]
+        if not any(artifact in line for artifact in artifacts):
             newLines.append(line)
     
-    # Replace Cross-world Linkshells
-    newLines = [line.replace("CrossWorldLinkShell_1:", "[OOC]:") for line in newLines]
-    newLines = [line.replace("CrossWorldLinkShell_2:", "[DM]:") for line in newLines]
-    newLines = [line.replace("CrossWorldLinkShell_3:", "[Player]:") for line in newLines]
+    # Replacements
+    replacements = {
+        
+        # Cross world linkshells
+        "CrossWorldLinkShell_1:": "[OOC]:",
+        "CrossWorldLinkShell_2:": "[DM]:",
+        "CrossWorldLinkShell_3:": "[Player]:",
 
-    # Replace Party and Alliance
-    newLines = [line.replace(" Party: ", " [Party]: ") for line in newLines]
-    newLines = [line.replace(" Alliance: ", " [Alliance]: ") for line in newLines]
+        # Chat channels
+        " Party: ": " [Party]: ",
+        " Alliance: ": " [Alliance]: ",
+        " Emote: ": "",
+        " Say:": ":",
+    }
 
-    # Remove "Emote:" and "Say"
-    newLines = [line.replace(" Emote: ", "") for line in newLines]
-    newLines = [line.replace(" Say:", ":") for line in newLines]
+    for original,replacement in replacements.items():
+        newLines = [line.replace(original,replacement) for line in newLines]
 
     # Remove timestamps
     newLines = [re.sub(r"\[\d\d\d\d-\d\d-\d\d\s\d\d:\d\d:[A-Za-z0-9]+(([+-]?(?=\.\d|\d)(?:\d+)?(?:\.?\d*))(?:[Ee]([+-]?\d+))?(:([+-]?(?=\.\d|\d)(?:\d+)?(?:\.?\d*))(?:[Ee]([+-]?\d+))?)+)\]\s+","",line) for line in newLines]
 
     # Remove servers
     servers = [
-        " [Adamantoise]",
-        " [Cactuar]",
-        " [Faerie]",
-        " [Gilgamesh]",
-        " [Jenova]",
-        " [Midgardsormr]",
-        " [Sargatanas]",
-        " [Siren]",
-        " [Balmung]",
-        " [Brynhildr]",
-        " [Coeurl]",
-        " [Diabolos]",
-        " [Goblin]",
-        " [Malboro]",
-        " [Mateus]",
-        " [Zalera]",
-        " [Halicarnassus]",
-        " [Maduin]",
-        " [Marilith]",
-        " [Seraph]"
+        "Adamantoise",
+        "Cactuar",
+        "Faerie",
+        "Gilgamesh",
+        "Jenova",
+        "Midgardsormr",
+        "Sargatanas",
+        "Siren",
+        "Balmung",
+        "Brynhildr",
+        "Coeurl",
+        "Diabolos",
+        "Goblin",
+        "Malboro",
+        "Mateus",
+        "Zalera",
+        "Halicarnassus",
+        "Maduin",
+        "Marilith",
+        "Seraph"
     ]
     for server in servers:
-        newLines = [line.replace(server, "") for line in newLines]
+        newLines = [line.replace(f" [{server}]", "") for line in newLines]
     return newLines
 
 def makeFile(fileTitle, newLines):
@@ -95,17 +99,16 @@ def makeFile(fileTitle, newLines):
 
         # Add character name in bold
         p = document.add_paragraph("")
-        character = p.add_run(characterName).bold = True
+        p.add_run(characterName).bold = True
         rest = p.add_run(restOfLine)
         
         # Make OOC text grey
-        if "[OOC]" in line:
+        if "[OOC]:" in line:
             rest.font.color.rgb = RGBColor(169,169,169)
         
         # Make DM emote red
-        elif "[DM]" in line:
+        elif "[DM]:" in line:
             rest.font.color.rgb = RGBColor(225,0,0)
-            
 
     # Save document
     newFile = str(f"{fileTitle}-clean.docx")
@@ -113,4 +116,5 @@ def makeFile(fileTitle, newLines):
 
     return f"Success!\nYour cleaned log can be found in your current folder as: {newFile}"
 
-main()
+if __name__ == "__main__":
+    main()

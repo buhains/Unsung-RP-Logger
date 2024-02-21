@@ -1,6 +1,6 @@
 # Unsung-RP-Logger
 
-![[Pasted image 20240221231006.png]]
+![Original uncleaned log on the lefthand side. New cleaned log on the righthand side.](https://i.imgur.com/70eECyX.png)
 
 Hey, this is my first Python code and something I made for a friend's specific use case. It cleans up chat logs exported from Final Fantasy XIV (Gobchat) and exports them in a .docx format, ready to upload direct to Google Docs. 
 

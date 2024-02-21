@@ -5,7 +5,7 @@ from docx.shared import RGBColor
 
 def main():
     print("Hi Fern! Welcome to the Unsung RP Log converter.\nMake sure the log you want to convert is in the same folder as this program.\n")
-    fileName = input("Please input the name of the file including the extension (e.g. log.txt): >").strip()
+    fileName = input("Please input the name of the file including the extension (e.g. log.txt):\n> ").strip()
     
     # Get file data
     fileTitle, fileExt = fileName.split(".")
@@ -15,7 +15,7 @@ def main():
         if fileExt == "txt":
             break
         else:
-            fileName = input("Sorry, only .txt files are accepted. Please input a file with the .txt extension: >")
+            fileName = input("Sorry, only .txt files are accepted. Please input a file with the .txt extension:\n> ")
             fileTitle, fileExt = fileName.split(".")
             continue
 

@@ -30,7 +30,7 @@ def cleanFile(fileName, fileTitle):
     rawLines = f.readlines()
     newLines = []
  
-    # Remove tells, Gobchat artifacts, and command errors from log
+    # Remove tells, Gobchat artifacts, empty lines and command errors from log
     for line in rawLines:
         artifacts = ["TellRecieve:", "TellSend:", "Error:", "Chatlogger", "Gobchat"]
         if not any(artifact in line for artifact in artifacts) and line != "\n" and line != "\r":
@@ -49,6 +49,8 @@ def cleanFile(fileName, fileTitle):
         " Alliance: ": " [Alliance]: ",
         " Emote: ": "",
         " Say:": ":",
+
+        # Remove <p> and <br> lines
         "\n": "",
         "\r": ""
     }

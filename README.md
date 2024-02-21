@@ -1,3 +1,7 @@
+# Unsung-RP-Logger
+
+Hey, this is my first Python code and something I made for a friend's specific use case. It cleans up chat logs from Final Fantasy XIV and exports them in a .docx format ready to upload direct to Google Docs. 
+
 # Installation
 
 1. Download **logConverter.py**
@@ -8,7 +12,9 @@
 
 4. Install Python-Docx by entering this into your Command Prompt (make sure to run as admin):
 
-```pip install python-docx```
+```
+pip install python-docx
+```
 
 # Run
 
@@ -17,20 +23,24 @@
 2. Write `cd` then the rest of the file path not visible in your command line.
 For example, if cmd is showing `C:\Windows\system32`, use these commands:
 
-```cd .. ```
-
-```cd ..```
-
-```cd users/[username]/documents```
+```
+cd .. 
+cd ..
+cd users/[username]/documents
+```
 
 To take you to the Documents folder. (Let me know if you're having trouble.)
 
 3. When in the directory directly where your log and python file are, run this in your command line:
 
-```python logConverter.py```
+```
+python logConverter.py
+```
 
 4. Enter the file name with the extension when prompted.
 
-```sample.txt```
+```
+sample.txt
+```
 
 5. Your file should complete successfully with `-clean.docx` appended at the end.

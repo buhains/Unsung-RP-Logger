@@ -33,7 +33,7 @@ def cleanFile(fileName, fileTitle):
     # Remove tells, Gobchat artifacts, and command errors from log
     for line in rawLines:
         artifacts = ["TellRecieve:", "TellSend:", "Error:", "Chatlogger", "Gobchat"]
-        if not any(artifact in line for artifact in artifacts):
+        if not any(artifact in line for artifact in artifacts) and line != "\n" and line != "\r":
             newLines.append(line)
     
     # Replacements
@@ -49,6 +49,8 @@ def cleanFile(fileName, fileTitle):
         " Alliance: ": " [Alliance]: ",
         " Emote: ": "",
         " Say:": ":",
+        "\n": "",
+        "\r": ""
     }
 
     for original,replacement in replacements.items():
@@ -91,6 +93,7 @@ def cleanFile(fileName, fileTitle):
     
     for server in servers:
         newLines = [line.replace(f" [{server}]", "") for line in newLines]
+    
     return newLines
 
 def makeFile(fileTitle, newLines):
@@ -113,7 +116,7 @@ def makeFile(fileTitle, newLines):
         
         # Make OOC text grey
         if "[OOC]:" in line:
-            rest.font.color.rgb = RGBColor(169,169,169)
+            rest.font.color.rgb = RGBColor(141,141,141)
         
         # Make DM emote red
         elif "[DM]:" in line:

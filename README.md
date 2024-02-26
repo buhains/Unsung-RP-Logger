@@ -12,12 +12,15 @@ Hey, this is my first Python code and something I made for a friend's specific u
 
 3. Install Python's latest version: https://www.python.org/downloads/
 
-4. Install Python-Docx by entering this into your Command Prompt (make sure to run as admin):
+4. Install pip: https://pip.pypa.io/en/stable/installation/#get-pip-py
+
+5. Install Python-Docx by entering this into your Command Prompt (make sure to run as admin):
 
 ```
 pip install python-docx
 ```
 
+6. Ensure all of the above installations that have been downloaded to a drive directly have their file paths enabled as system environment variables: https://learn.microsoft.com/en-us/powershell/module/microsoft.powershell.core/about/about_environment_variables?view=powershell-7.4#saving-environment-variables-with-the-system-control-panel
 # Run
 
 1. Open Command Prompt (make sure to run as admin):

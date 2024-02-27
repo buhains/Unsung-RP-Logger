@@ -52,7 +52,21 @@ def cleanFile(fileName, fileTitle):
 
         # Remove <p> and <br> lines
         "\n": "",
-        "\r": ""
+        "\r": "",
+
+        # Remove party and alliance artefacts
+        "": "",
+        "": "",
+        "": "",
+        "": "",
+        "": "",
+        "": "",
+        "": "",
+        "": "",
+        "": "",
+        "": "",
+        "": ""
+        
     }
 
     for original,replacement in replacements.items():

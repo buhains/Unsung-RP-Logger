@@ -5,19 +5,22 @@ from docx.shared import RGBColor
 
 def main():
     print("Hi Fern! Welcome to the Unsung RP Log converter.\nMake sure the log you want to convert is in the same folder as this program.\n")
-    fileName = input("Please input the name of the file including the extension (e.g. log.txt):\n> ").strip()
+    fileName = input("Please input the name of the file including the extension (e.g. log.txt):\n> ").strip().casefold()
     
-    # Get file data
-    fileTitle, fileExt = fileName.split(".")
-
     # Check file extension
     while True:
-        if fileExt == "txt":
-            break
-        else:
-            fileName = input("Sorry, only .txt files are accepted. Please input a file with the .txt extension:\n> ")
+        try:
             fileTitle, fileExt = fileName.split(".")
+        except:
+            fileName = input("Sorry, please re-enter your file name with a .txt extension appended at the end:\n> ")
             continue
+        else: 
+            if fileExt == "txt":
+                break
+            else:
+                fileName = input("Sorry, only .txt files are accepted. Please input a file with the .txt extension:\n> ")
+                fileTitle, fileExt = fileName.split(".")
+                continue
 
     # File extension accepted
     print("Cleaning your log...")
@@ -55,17 +58,17 @@ def cleanFile(fileName, fileTitle):
         "\r": "",
 
         # Remove party and alliance artefacts
-        "": "",
-        "": "",
-        "": "",
-        "": "",
-        "": "",
-        "": "",
-        "": "",
-        "": "",
-        "": "",
-        "": "",
-        "": ""
+        "": "",  # Party 1
+        "": "",  # Party 2
+        "": "",  # Party 3
+        "": "",  # Party 4
+        "": "",  # Party 5
+        "": "",  # Party 6
+        "": "",  # Party 7
+        "": "",  # Party 8
+        "": "",  # Alliance A
+        "": "",  # Alliance B
+        "": "",  # Alliance C
         
     }
 

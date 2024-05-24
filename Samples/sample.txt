@@ -1,0 +1,502 @@
+﻿Chatlogger Id: CCLv1
+Chatlogger format:[{date} {time-full}] {sender} {channel}: {message}
+[2024-05-21 19:08:36+01:00] Gobchat GobchatInfo: FFXIV detected.
+[2024-05-21 19:08:43+01:00] Lanvert Frost Emote:  smelled of oil, leather, grass, and rain. He smelt a bit of the mingled musk of wild beasts, though there was the tinge of iron, too. He definitely petted the 'buncle, chuckling in a low register at the shower of sparkles.
+[2024-05-21 19:08:45+01:00] Luca Myste [Balmung] CrossWorldLinkShell_1: wb!
+[2024-05-21 19:09:07+01:00] Cain Locke [Balmung] CrossWorldLinkShell_1: Thank you! I think my power blipped for a nanosecond, but that was enough to make me disconnect
+[2024-05-21 19:09:17+01:00] Cain Locke [Balmung] CrossWorldLinkShell_1: Hopefully I didn't miss out much
+[2024-05-21 19:09:18+01:00] Vivira Vira [Balmung] Say: "Well, what's your name then? Do you have any way to show that you're with the Guild?" She briefly pauses her interrogation to greet Polar with a briefly raised hand. "Cain here is our levemete, so it's up to him if he deems you trustworthy," she added in a tone that suggests she, herself, does not. "Chubby seems to like him, but then again, Chubby likes Red as well."
+[2024-05-21 19:09:18+01:00] Celica Ashworth [Balmung] CrossWorldLinkShell_1: fight the utilities
+[2024-05-21 19:10:47+01:00] Polarhine Mennarc [Mateus] Emote:  wiggles her fingers in greeting to Vivira and Cain, a flick of her index finger across the green rim of her hat to complement with a tip.
+[2024-05-21 19:11:01+01:00] Lanvert Frost Say: "Didn't bring my papers," Lanvert admitted. "Name's Lanvert Frost, though. If you got a way to contact 'em, by linkpearl or so, they could confirm my registration." He sounded confident. "What're your names? -Well-met, Cain."
+[2024-05-21 19:12:15+01:00] Vivira Vira [Balmung] Say: "Frost? Does that mean you were born out of wedlock, or is that not the naming convention around these parts?" If she knew that was probably rude to ask, she didn't show it. If anything she seemed genuinely interested in the answer. "I can contact the guild and check if you like," she offered to Cain.
+[2024-05-21 19:12:16+01:00] Luca Myste [Balmung] Say: "I'm Luca! Nice to meet you."
+[2024-05-21 19:12:53+01:00] Polarhine Mennarc [Mateus] Say: The name's Polarhine. Well met.
+[2024-05-21 19:13:55+01:00] Cain Locke [Balmung] Emote:  waves casually at Polar before returning his attention to Lanvert and Vivira. "Despite what happened, there's a middle-ground between too trusting and too insular," he noted to the latter. He inclines his head at Lanvert. "Well met, likewise, Lanvert. Like Vivira here said, I'm Cain, the levemete of the Unsung and therefore the one who posted the leve. Our leve requester was supposed to come too but couldn't make it. You said that you are a hunter, right? Do you have knowledge about >
+[2024-05-21 19:14:20+01:00] Cain Locke [Balmung] Say: > local plants or any other things that might be relevant?"
+[2024-05-21 19:14:53+01:00] Vivira Vira [Balmung] Say: "..So I am not checking it then?" Her tone was pure acid, positively dripping with it, in fact.
+[2024-05-21 19:14:54+01:00] Cain Locke [Balmung] Emote:  considers Vivira's request for a moment but then nods. "I suppose it wouldn't hurt, if Lanvert himself doesn't mind it."
+[2024-05-21 19:15:43+01:00] Lanvert Frost Say: "Ye gods, you get straight to business," he laughed at Vivira, rubbing the back of his neck. "Aye, Frost's a bastard's name." He shot Luca and Polar each a friendly smile, then turned Cain's way again. "That I do. If you need a guide, I could stand in. If you got some idea o' what you're lookin' for, I can point us in the right direction."
+[2024-05-21 19:16:29+01:00] Vivira Vira [Balmung] Say: "Good! I shall return shortly." Vivira is totally perked up again as she marches off to make a linkpearl call. She seems to be of the kind that thinks a poor connection means she should just talk louder, and can occassionally be heard saying things like 'Frost! F-R-O-S-T. Like an Ishgardian bastard! Pretty Hyur boy. I think, I don't know your beauty standards!"
+[2024-05-21 19:18:05+01:00] Vivira Vira [Balmung] TellSend: He's definitely on the register, no blemishes or marks against his name. He's probably handled close to a hundred levequests or so too, so a full-time freelancer.
+[2024-05-21 19:18:21+01:00] Luca Myste [Balmung] Emote:  snickers. "Fret not, Lanvert, you're among at least one fellow 'bastard'." Her voice lowers a bit. "I think maybe Chubby peed in her cereal this morning, or something. Can Carbuncles do that?"
+[2024-05-21 19:19:45+01:00] Vivira Vira [Balmung] Say: "What do you mean, you have a dozen Lanvert Frosts' on register? How do you keep them apart then? This one's blonde, or white-haired, whatever you call that colour. From Tailfeather, or at least around there? Yes, yes, I'll hold." Her ears aren't just for show though, as she calls over her shoulder: "I don't eat that, it's disgusting. And no, Chubby can't pee!"
+[2024-05-21 19:20:14+01:00] Lanvert Frost Say: "Is she always- pardon. Ought not be rude, had I. Just been a while since someone's come out and said it instead of givin' me 'the eye', heh. Refreshin', I guess." He offered Luca a warm smile. "At least I'm not alone."
+[2024-05-21 19:21:08+01:00] Polarhine Mennarc [Mateus] Say: Y'any good with that bow? Y'make it sing?
+[2024-05-21 19:21:16+01:00] Cain Locke [Balmung] Say: "Aren't Carbuncles just aether...? Then again, Chubby seems to be a bit of a special case. Eh, I hope you don't mind anyroad, Lanvert. Vivira likes being thorough." Cain pushes a lock of hair behind his ear. "I'll wait a moment to se if any others will join us and then do the formal briefing. I reckon you three know the gist of the leve though, right?"
+[2024-05-21 19:21:21+01:00] Luca Myste [Balmung] Emote:  draws her lips to a thin line at being overheard, casting vaguely scared glances at the back of Vivira's head. The woman scares her.
+[2024-05-21 19:21:40+01:00] Vivira Vira [Balmung] Say: "No, I wasn't talking to you... Yes, I'm still waiting. Oh, how many? Sheesh, what a tryhard. Alright then, thank you for the information, have a good sun." She marches back to the group. "He seems to check out, as they say," Vivira tells Cain.
+[2024-05-21 19:22:34+01:00] Cain Locke [Balmung] Say: "Alright. Appreciate the effort, Vivira."
+[2024-05-21 19:24:02+01:00] Luca Myste [Balmung] Say: "You bet! Are we expecting danger? I-- guess I'm the frontline this time, huh?"
+[2024-05-21 19:24:27+01:00] Vivira Vira [Balmung] Say: "Seems like there's a lot of 'Frosts' in and around Ishgard. Not sure why they even bother making a big deal out of it if half their children are born out of wedlock anyroad. But yes, welcome mister Frost. I'm Vivira Vira, the levescribe. I don't usually go on leves, but I was bored and Chubby was being annoying. Chubby is the carbuncle. And yes, they are supposed to look like that."
+[2024-05-21 19:24:51+01:00] Lanvert Frost Emote:  chuckled awkwardly at Polar. "It don't sing, nah. Neither do I. I could make folk cry with my voice, but not for good reasons." He shook his head at Cain, smiling good-naturedly. "If you've run into trouble lately, I could understand th' need for caution." When Vivira returned, he inclined his head. "For what it's worth, I was born in Coerthas. I work and hunt out here, and I've got a cabin up north in the mountains, so I reckon I count for a local by now."
+[2024-05-21 19:25:32+01:00] Polarhine Mennarc [Mateus] Emote:  chuckles lightly, nodding.
+[2024-05-21 19:26:29+01:00] Lanvert Frost Say: "Pleasure to meet you, miss levescribe. You've got a beautiful carbuncle. Handsome little fella. He looks just fine the way he is." More pets were offered.
+[2024-05-21 19:27:25+01:00] Polarhine Mennarc [Mateus] Say: I'm pretty sure all carbuncles look the same, at least on the outside. Then again, so says my only workin' eye.
+[2024-05-21 19:28:19+01:00] Cain Locke [Balmung] Say: "Seems like you might be our frontliner today, yeah - but I reckon we can avoid fighting if we are careful enough. It seems like we've got two sharpshooters this time, too, plus some magicked support if needed."
+[2024-05-21 19:28:20+01:00] Vivira Vira [Balmung] Emote:  softened ever so slightly as Lanvert doted on Chubby. She went from icy to frosty, one might say. Chubby sat back and looked up at Lanvert adoringly, it's tongue hanging out of its mouth. Chubby did indeed look like a normal carbuncle, except that they were much chonkier than the average one. They looked like an overfed, spoiled pet more than a magical conjuration of support and destruction.
+[2024-05-21 19:28:44+01:00] Polarhine Mennarc [Mateus] Say: Oh, oh! In my case, I'd say less sharp, more shooter.
+[2024-05-21 19:29:00+01:00] Polarhine Mennarc [Mateus] Say: Still workin' on the sharp part tho, my word.
+[2024-05-21 19:30:03+01:00] Cain Locke [Balmung] Emote:  seems slightly amused. "Are you hoping for more practice or no practice today? I've got to admit that I'm not very familiar with this region, so I don't know what else besides chocobos roam around."
+[2024-05-21 19:30:31+01:00] Lanvert Frost Say: "You can tell 'em apart now and again. Some got longer ears, extra tails... or legs. But mostly th' same critter." He nodded at Cain. "I'm equipped to handle close quarters too, but I'm hopin' we can scare off any beasts we cross paths with rather than havin' to fight 'em off."
+[2024-05-21 19:31:12+01:00] Lanvert Frost CrossWorldLinkShell_1: Catbug carbuncle...
+[2024-05-21 19:31:39+01:00] Luca Myste [Balmung] Say: "I'm sure Lanvert has all the details, but all I know from hearsay is bandersnatches are a real hassle out here. My old captain said he used to use them for sword practice."
+[2024-05-21 19:31:40+01:00] Cain Locke [Balmung] CrossWorldLinkShell_1: I once met someone who RP'd having a glitchy carbuncle
+[2024-05-21 19:31:51+01:00] Vivira Vira [Balmung] Say: "If you can sense aether or detect it in some other way, you'd notice that each carbuncle is, indeed, quite different. Some say that even those carbuncles resummoned by the same arcanist are different."
+[2024-05-21 19:31:57+01:00] Vivira Vira [Balmung] CrossWorldLinkShell_1: *points to Chubby*
+[2024-05-21 19:32:19+01:00] Cain Locke [Balmung] CrossWorldLinkShell_1: It made me wonder if it would be acceptable or horrendous to RP a character whose carbuncle looked like they had taken a bit too much inspiration from Porygon
+[2024-05-21 19:32:22+01:00] Vivira Vira [Balmung] Emote:  narrowed her eyes at Luca. "That seems rather pointless and cruel?"
+[2024-05-21 19:33:04+01:00] Luca Myste [Balmung] Say: "Maybe? I assume he meant when they tried to eat him. They're sneaky buggers."
+[2024-05-21 19:33:13+01:00] Vivira Vira [Balmung] CrossWorldLinkShell_1: I kinda like the idea that carbuncles can pretty much look like anything, technically, at least that's what the glamour quests for summons suggest
+[2024-05-21 19:33:22+01:00] Polarhine Mennarc [Mateus] Emote:  nods to Lanvert, humming in quick understanding, turning to face Cain then with a hesitant look, and an equally unsure shrug. "I'd hope for fleshy targets this time, somethin' Pin cushion material. Fiery elementals? Rock golems? Nuhhh..."
+[2024-05-21 19:33:58+01:00] Polarhine Mennarc [Mateus] CrossWorldLinkShell_1: a small case of not editing my emote properly
+[2024-05-21 19:34:32+01:00] Vivira Vira [Balmung] Say: "Hm, well, I'm sure we'll be alright with an experienced local hunter here. And Cain looks way more snackable than me, so that should give me time to run away if anything happens," she mused, suddenly slightly worried as she looked around.
+[2024-05-21 19:35:18+01:00] Lanvert Frost Say: "Bandersnatches are real brutes. They can take on wyverns and win on raw strength alone, and I don't fancy bein' hunted by one. If th' party's just us, we could probably keep a low profile. If you're newcomers to th' area, th' main thing to remember is that th' chocobos you'll find out here out in th' wild? They're not tame, friendly birds."
+[2024-05-21 19:35:28+01:00] Cain Locke [Balmung] Say: "Bandersnatches, huh... Do you have any idea what they look like? Let's hope we don't run into angry ones, though. I doubt we'll be running a lot of elementals--more snackable?" Cain's train of thought gets interrupted by Vivira.
+[2024-05-21 19:36:11+01:00] Polarhine Mennarc [Mateus] Say: Is it true there's chocos feathered red in these parts?!
+[2024-05-21 19:36:19+01:00] Polarhine Mennarc [Mateus] Emote:  she asks, looking Lanvert's way with contained panic.
+[2024-05-21 19:36:21+01:00] Luca Myste [Balmung] Say: "You'd be hard pressed to miss them. Big cat-like things. Fast, and as Lanvert says, able to claw a man's head off with one clean swipe!"
+[2024-05-21 19:37:27+01:00] Lanvert Frost Say: "They look like big cats, or dogs I suppose, with distinctive red manes and vicious tusks juttin' up from their lower jaws." He mimed this with his fingers, then chuckled at Polar. "If you see a 'bo with red feathers wherever you be, turn and run and don't look back."
+[2024-05-21 19:37:36+01:00] Vivira Vira [Balmung] Say: "You heard what I said," she told Cain with a huff. "Do tame, friendly chocobos exist at all, really? I always thought all of them were kinda born jerks."
+[2024-05-21 19:39:29+01:00] Yoki Yokiki [Balmung] Emote:  tosses an overflowing pigtail dramatically, making her entrance. "My beloved Cactusflower is the most friendly and kind 'bo across every land."
+[2024-05-21 19:39:33+01:00] Polarhine Mennarc [Mateus] Emote:  nods understandingly.
+[2024-05-21 19:39:50+01:00] Polarhine Mennarc [Mateus] Say: Well, that's cuz he ain't feathered red.
+[2024-05-21 19:40:04+01:00] Yoki Yokiki [Balmung] Say: "I do dye him to a more natural color, on a note."
+[2024-05-21 19:40:14+01:00] Yoki Yokiki [Balmung] Emote:  tosses hair again, "much like I do myself."
+[2024-05-21 19:40:18+01:00] Cain Locke [Balmung] Say: "I'm morbidly curious of your word choice, but I feel like I'm better off not knowing why you chose it," Cain mutters to Vivira and shakes his head. Then he is able to refocus on the conversation. "So we better keep an eye out for wild chocobos and big cat-dogs. Got it. And hello there, Yoki."
+[2024-05-21 19:40:20+01:00] Luca Myste [Balmung] Say: "Hello, miss Yoki! Glad to have you and your blue magics with us."
+[2024-05-21 19:40:22+01:00] Polarhine Mennarc [Mateus] Emote:  blinks, her eyes narrowing. "... His... true colour bein'...?"
+[2024-05-21 19:40:38+01:00] Lanvert Frost Say: "Well, I treat all 'bos with due respect. Anythin' with claws long enough to gut you and a beak that could take off half your hand deserves no less." He turned to greet the newest arrival.
+[2024-05-21 19:41:05+01:00] Yoki Yokiki [Balmung] Emote:  calls out to Luca a delighted "felicitations!" as she quickly, expediently, perhaps hurriedly moves away from the subject of feather and hair colors.
+[2024-05-21 19:41:39+01:00] Yoki Yokiki [Balmung] Say: "They have a, frankly, ludicrous capacity for violence when you really think about what they can do."
+[2024-05-21 19:41:48+01:00] Vivira Vira [Balmung] Say: "I'm talking about the probability of a wild beast picking one of us to eat, Cain. Like a snack? Out of all of us, my gil is on you being first choice." Yoki got a brief greeting by way of raised hand. "Seems we are ready for a brief, then? I don't have all sun, you know."
+[2024-05-21 19:42:54+01:00] Lanvert Frost Say: "Never get too familiar with the wildlife. That's my motto. One of many mottos, I suppose. We forget they're all wild at heart. ...Lanvert, by th' by. I'll be joining you for this leve, and- servin' as guide."
+[2024-05-21 19:43:20+01:00] Yoki Yokiki [Balmung] Say: "If I've missed any words concerning the assignment prior to my appearance, fret not! I'm sure I'll wit my way through any quandries... and probably just follow the leads of the others."
+[2024-05-21 19:43:31+01:00] Vivira Vira [Balmung] Say: "Don't worry, we had him checked," she tells Yoki. "This isn't going to be another Griff situation."
+[2024-05-21 19:43:56+01:00] Yoki Yokiki [Balmung] Say: "Yoki Yokiki, azure sorceress and generally beloved company. Chamed, I'm sure."
+[2024-05-21 19:44:08+01:00] Lanvert Frost CrossWorldLinkShell_1: tfw people run background checks on my characters mid-RP
+[2024-05-21 19:44:16+01:00] Lanvert Frost CrossWorldLinkShell_1: I have a reputation...
+[2024-05-21 19:44:27+01:00] Polarhine Mennarc [Mateus] CrossWorldLinkShell_1: gil laundering
+[2024-05-21 19:44:29+01:00] Yoki Yokiki [Balmung] CrossWorldLinkShell_1: *immediately touches linkpearl
+[2024-05-21 19:44:31+01:00] Yoki Yokiki [Balmung] CrossWorldLinkShell_1: "kill this man"
+[2024-05-21 19:44:40+01:00] Vivira Vira [Balmung] CrossWorldLinkShell_1: LOOK YOU DID THIS WITH GRIFF
+[2024-05-21 19:44:54+01:00] Polarhine Mennarc [Mateus] CrossWorldLinkShell_1: aetherphetamine peddling
+[2024-05-21 19:45:29+01:00] Lanvert Frost Say: "Charmed, for sure. Likin' th' outfit. Practical with th' gloves and the boots, but stylish too."
+[2024-05-21 19:46:45+01:00] Cain Locke [Balmung] Say: "Not if they have much taste, unless they enjoy coffee." Cain's quip this time is quite friendly, though, and he smoothly moves on. "Alright, I reckon we've got everyone who is going to participate. I'll brief you quickly, although you know the most important parts from the leve notice. We're here to gather healing herbs, which can apparently be turned into a fairly strong painkiller medicine. The request was made by someone I know, though he couldn't come himself."
+[2024-05-21 19:47:16+01:00] Yoki Yokiki [Balmung] Emote:  beams, her mirth obvious on her face at the high-tier compliment of 'like'. "Oh, you think so?" she starts. "I hadn't really considered it, you know, I just tossed something together. I admit, I do enjoy tall boots. They, uh, make me seem a touch higher for it. You see, proportionately, anything that only goes up to my knees... ah, I should pay attention."
+[2024-05-21 19:48:20+01:00] Luca Myste [Balmung] Emote:  nods. "Sounds simple enough. Look for herbs, keep eyes peeled for danger."
+[2024-05-21 19:50:28+01:00] Cain Locke [Balmung] Emote:  hums. "Most likely. The biggest issues and hopefully the only ones will be avoiding dangerous wildlife and finding the said herb. It's apparently something that prefers to grow on places with stone and moss, meaning that ruined buildings and structures are its favourite places."
+[2024-05-21 19:50:51+01:00] Cain Locke [Balmung] TellSend: By the way, if you have a spot in mind but want Lanvert to lead, feel free to drop me a The Dravanian Forelands ( 33.5  , 26.0 ) or so, for any and all stops along the way.
+[2024-05-21 19:51:57+01:00] Vivira Vira [Balmung] Say: "What does he need it for? If your friend is in pain, perhaps he should have Charlette look at him," she suggested to Cain. "Do you have any pictures of the herb? Or better yet, it's aetherical make-up so that Chubby might look for it?" She seems to think that's something people just have with them, apparently
+[2024-05-21 19:52:32+01:00] Polarhine Mennarc [Mateus] Emote:  nods, impressed by the description. "Like nature tryin' to heal the scars o' the past..."
+[2024-05-21 19:52:52+01:00] Cain Locke [Balmung] TellRecieve: Sure thing, thank you! I was thinking about The Dravanian Forelands ( 34.7  , 12.7 ), though it's a bit far away. There might also be some good spots along the road leading in that direction, but I unfortunately don't have any flags marked up...
+[2024-05-21 19:53:33+01:00] Lanvert Frost Emote:  listened to Yoki with a growing smile until Cain started speaking. Reaching to to fuss Chubby a bit more, the hunter nodded along. "Places with stone and moss, huh. Aye, I reckon I have a few areas we could check in mind. It'll be kind of a hike, so I hope you all got your walkin' boots on."
+[2024-05-21 19:53:56+01:00] Cain Locke [Balmung] TellSend: Awesome! Just let me know when you'd like to pause then
+[2024-05-21 19:55:28+01:00] Cain Locke [Balmung] Say: "A poetic way to put it," Cain compliments Polar. Vivira's questions make him comb his bangs. "Charlette has had her hands full enough, I reckon, and Merces--the requester apparently came up with an idea he wants to try. I have a sketch I copied from an old book, but that's all: no idea how I could've carried an aetherical make-up or something like that with me," he half-asks, half-states.
+[2024-05-21 19:55:42+01:00] Yoki Yokiki [Balmung] Emote:  nods. "I used to do this sort of thing in pumps," she comments uselessly.
+[2024-05-21 19:56:34+01:00] Vivira Vira [Balmung] Say: "One of the plants might do it," she said with a sigh. "Pictures it is. He's not turning it into a drug, is he? Like one of those ones that make you useless but happy? If he is, I want a bigger cut of the gil."
+[2024-05-21 19:56:46+01:00] Lanvert Frost Say: "Mind if I take a look at th' sketch afore we head out? Might narrow things down." He stepped forward, carefully avoiding Chubby.
+[2024-05-21 19:57:12+01:00] Polarhine Mennarc [Mateus] Emote:  curls her lips inward to contain a smile, quietly letting her mind ingest the compliment.
+[2024-05-21 19:57:31+01:00] Luca Myste [Balmung] CrossWorldLinkShell_1: brb two secs, need more water
+[2024-05-21 19:57:50+01:00] Cain Locke [Balmung] Say: "Oh, really? That sounds promising. I'll let you lead the way, then, if you're up for it. The plant we are looking for is also called 'grapple plant', if that's of any use." Cain takes out the sketch depicting a fairly modest plant with leaves somewhat reminiscent of a nettle and tuber-like roots, showing it briefly to everyone before handing it to Lanvert.
+[2024-05-21 19:58:12+01:00] Vivira Vira [Balmung] Say: "Huh, he's taller than you," Vivira observed. "Hold it at an angle, will you, I want to have a look, too."
+[2024-05-21 19:58:41+01:00] Yoki Yokiki [Balmung] Say: "... Does it... uh. This might sound silly. Actually. I should ask permission first -- does... it, you kow. Uhm. 'Grapple' people?"
+[2024-05-21 19:59:07+01:00] Yoki Yokiki [Balmung] Say: "Apologies, silly question, hunting spells has led to weird experiences, I wouldn't be surprised if that's in store for me here."
+[2024-05-21 19:59:48+01:00] Cain Locke [Balmung] Emote:  does makes sure that Vivira gets to see the sketch, too. "If you meant me, I'm not the tallest of people," he comments. "As for Straightblade, I doubt he has the imagination for doing drugs. This job is completely safe in that regards. Don't worry."
+[2024-05-21 20:00:28+01:00] Polarhine Mennarc [Mateus] Say: Remind me. The Blue don't necessarily learn their craft from tomes, do they?
+[2024-05-21 20:00:50+01:00] Cain Locke [Balmung] Say: "Does the plant grapple people? I... don't think so. It's relatively rare, so I couldn't find a lot written about it, but I reckon someone would've mentioned if it, eh, hunts people."
+[2024-05-21 20:00:52+01:00] Yoki Yokiki [Balmung] Say: "I go out, I look at other things doing their thing, and something clicks in my head. It's the best way to describe it. Very intuitive!"
+[2024-05-21 20:01:33+01:00] Polarhine Mennarc [Mateus] Say: Ahhh... Therefore, if the plant lives up to its name, y'could... technically...
+[2024-05-21 20:02:33+01:00] Lanvert Frost Emote:  leant in to study the sketch. He hummed to himself. "Aye, I've seen this growin' out in th' wilds. Shouldn't be hard to find. Granted, findin' it is only half th' fight." He cleared his throat. "It grapples the stone it grows on, I figure. Another word for its ilk would be a 'climber'?"
+[2024-05-21 20:02:36+01:00] Polarhine Mennarc [Mateus] Emote:  wordlessly motions a winding sweep with her hand, fingers open, grabby, then curling and snatching the air like a snake.
+[2024-05-21 20:02:57+01:00] Yoki Yokiki [Balmung] Emote:  tilts her head to the side, then nods. "Perhaps. Something like that. Who knows! I certainly don't."
+[2024-05-21 20:02:59+01:00] Vivira Vira [Balmung] Say: "I don't know if you just insulted or complimented your friend..." she remarked as she looked at the sketch - might she recognize the plant at all with only minor alchemy training but a lot of magical theory under her belt?
+[2024-05-21 20:03:09+01:00] Luca Myste [Balmung] Say: "So we ought to have brought climbing boots, as well as walking?"
+[2024-05-21 20:04:02+01:00] Polarhine Mennarc [Mateus] Say: Ain't you afraid that y'might learn somethin' you'd rather not? Or y'got one of those, uhhh... 'ward' things goin' on?
+[2024-05-21 20:04:07+01:00] Lanvert Frost Emote:  smirked a bit to himself at being declared the taller of the two. He stood back after having assessed the drawing, though. "We'll see how high we need to go, but if it grows on buildings, well... those aren't often built into th' mountains."
+[2024-05-21 20:04:25+01:00] Polarhine Mennarc [Mateus] Emote:  takes intermitent breaks in her speech, betraying a clear aura of ignorance concerning spellcraft.
+[2024-05-21 20:04:37+01:00] Polarhine Mennarc [Mateus] CrossWorldLinkShell_1: intermittent*
+[2024-05-21 20:04:50+01:00] Yoki Yokiki [Balmung] Say: "While my heart might be a viciously closed vault, I do like to tell myself that my mind is an open book, ready for the world to scrawl a new spell into."
+[2024-05-21 20:05:23+01:00]  Error: “<mo>” is not a valid PC name.
+[2024-05-21 20:06:22+01:00] Polarhine Mennarc [Mateus] Say: Right, right. Any particular spell you're particularly fond of? Proud?
+[2024-05-21 20:06:23+01:00] Vivira Vira [Balmung] Say: "Oh, pricey," she remarked approvingly. "I think I used to use this as a youngster, though the effects were overstated unless you're in actual pain."
+[2024-05-21 20:07:33+01:00] Cain Locke [Balmung] Say: "Maybe... I did bring some rope, though, so maybe we can fashion something to help with the climbing, if that's needed. Hopefully one of us has experience in scaling walls or trees."
+[2024-05-21 20:08:00+01:00] Luca Myste [Balmung] Say: "I can jump pretty high with my wind magic, but it's... not exactly precise." Or safe, but she doesn't say that part.
+[2024-05-21 20:08:47+01:00] Yoki Yokiki [Balmung] Say: "... Err. Not... particularly? I mean. 'Bad breath' was particularly traumatizing. I think I mostly just take pride in Cactusflower routinely saving me from the jaws of peril... even when I've specifically asked him to not partake. A protective friend, that beloved bird."
+[2024-05-21 20:09:00+01:00] Yoki Yokiki [Balmung] Say: "It's just sort of a hobby for me."
+[2024-05-21 20:10:08+01:00] Cain Locke [Balmung] Say: "Knowing what little I've seen, sounds like his pursuit is warranted, then," Cain notes quietly, mostly to himself. He then clears his throat. "We'll come up with a solution when we get there. Anyroad, that's all I have to say before we set out: is everyone ready?"
+[2024-05-21 20:10:25+01:00] Polarhine Mennarc [Mateus] Emote:  hums amusedly. "Heh, y-hup. Sounds like a real chocobo, that. Bad breath tho..." she lets her eyes stray into space, a quick idea rushing in. "Bet that was a Morbol encounter."
+[2024-05-21 20:10:28+01:00] Luca Myste [Balmung] Say: "Aye aye, captain!"
+[2024-05-21 20:10:42+01:00] Yoki Yokiki [Balmung] Say: "Oooh, levecaptain, sure!"
+[2024-05-21 20:11:00+01:00] Polarhine Mennarc [Mateus] Say: Ready n' willin', chief!
+[2024-05-21 20:11:51+01:00] Lanvert Frost Say: "Ready when you all are. We should be able to stick to th' path for some of th' way." Adjusting his bow's strap, he turned to the main gate to make ready for their departure.
+[2024-05-21 20:12:09+01:00] Cain Locke [Balmung] Say: "Alright, let's be on our way then."
+[2024-05-21 20:12:48+01:00] Polarhine Mennarc [Mateus] Say: Got your back, front-liner.
+[2024-05-21 20:13:33+01:00] Luca Myste [Balmung] Say: "I'll trust I won't receive an accidental arrow in the spine for my troubles?"
+[2024-05-21 20:13:33+01:00] Cain Locke [Balmung] CrossWorldLinkShell_1: I'll toss Lanvert an invite to the DM and player channels just in case
+[2024-05-21 20:13:34+01:00] Lanvert Frost CrossWorldLinkShell_1: The two lalafell shamelessly got me on follow
+[2024-05-21 20:13:39+01:00] Lanvert Frost CrossWorldLinkShell_1: ty!
+[2024-05-21 20:13:50+01:00] Vivira Vira [Balmung] CrossWorldLinkShell_1: I need invites as well, btw!
+[2024-05-21 20:14:14+01:00] Vivira Vira [Balmung] CrossWorldLinkShell_1: thanks!
+[2024-05-21 20:14:27+01:00] Cain Locke [Balmung] CrossWorldLinkShell_1: There you go! Let's stoop by the stairs, by the way
+[2024-05-21 20:14:45+01:00] Luca Myste [Balmung] Say: "Nooo promises."
+[2024-05-21 20:15:10+01:00] Polarhine Mennarc [Mateus] Say: It ain't life with a bit of luck in it.
+[2024-05-21 20:15:17+01:00] Polarhine Mennarc [Mateus] Emote:  without*
+[2024-05-21 20:15:24+01:00] Vivira Vira [Balmung] Say: || Chubby doesn't stay with them on the path for long, instead they rush away from them to scout their left flank and slightly agead of them whenever possible.
+[2024-05-21 20:16:12+01:00] Cain Locke [Balmung] CrossWorldLinkShell_3: As the group arrives to the flight of stairs, there's a bunch of what looks like discarded plant matter alongside the bottom right side of the stairs.
+[2024-05-21 20:17:05+01:00] Polarhine Mennarc [Mateus] CrossWorldLinkShell_1: I finished weeding our yard today, now the weed's back to haunt me in RP
+[2024-05-21 20:17:14+01:00] Polarhine Mennarc [Mateus] CrossWorldLinkShell_1: is there no escape
+[2024-05-21 20:17:17+01:00] Luca Myste [Balmung] Emote:  looks up and up and up at the trees. "I'm so glad this stuff doesn't grow at the top of those."
+[2024-05-21 20:17:28+01:00] Cain Locke [Balmung] CrossWorldLinkShell_3: Anyone who spends even a moment looking can most likely spot some blood, too, leading to the spot and away from it, though the second trail fades relatively quickly.
+[2024-05-21 20:18:20+01:00] Polarhine Mennarc [Mateus] Emote:  looks up in tow, her gaze irresistibly drawn to the tall arboreal monoliths, drawn by a lure of awe.
+[2024-05-21 20:18:44+01:00] Yoki Yokiki [Balmung] CrossWorldLinkShell_2: "Oh!" exclaims Yoki, beaming. "I didn't realize there was going to be fruits involved in this. What a tasty looking red. Uhm. Does the grapple-thing grow any"
+[2024-05-21 20:18:44+01:00] Cain Locke [Balmung] Emote:  follows Luca's glance. "You're definitely right about that... I doubt anyone would be able to harvest it if it was only found up there."
+[2024-05-21 20:19:16+01:00] Cain Locke [Balmung] CrossWorldLinkShell_1: What a coincidence, ahaha
+[2024-05-21 20:19:19+01:00] Luca Myste [Balmung] Emote:  gives Cain a grin. "Is that a challenge, levecaptain?"
+[2024-05-21 20:19:58+01:00] Vivira Vira [Balmung] Say: "Seems like the local forest spirits have been up to some mischief," she remarked, her tone kept aloof. Perhaps a little too much so. "Frost wouldn't mind checking it, I'm sure."
+[2024-05-21 20:20:06+01:00] Lanvert Frost Emote:  noticed the blood before the plants. He remained relaxed, but he stopped to scan their surroundings for signs of motion. "Hm," he intoned. "Take care. Might've been a scuffle recently." The warning came before he cautiously drew nearer.
+[2024-05-21 20:20:24+01:00] Cain Locke [Balmung] Say: "Levecaptain is a new one... but no, not this time. Save your strength in case you need to do some climbing."
+[2024-05-21 20:20:31+01:00] Lanvert Frost CrossWorldLinkShell_1: Did you want to set up a party for the use of waymarks Menord?
+[2024-05-21 20:20:57+01:00] Luca Myste [Balmung] Emote:  shrugs. "I've got a sky pirate vocabulary quota to reach. But alright - next time."
+[2024-05-21 20:21:06+01:00] Cain Locke [Balmung] CrossWorldLinkShell_1: That might be useful, actually... I can't believe I forgot
+[2024-05-21 20:21:37+01:00] Lanvert Frost CrossWorldLinkShell_1: And not so you can save me if we run into high level enemies c:
+[2024-05-21 20:21:40+01:00] Polarhine Mennarc [Mateus] Say: I think you're the first levemete I've ever seen take the field more than once. Levecaptain fits, really.
+[2024-05-21 20:21:52+01:00] Vivira Vira [Balmung] Emote:  siiiiidesteps so Cain is now her meat shield.
+[2024-05-21 20:22:16+01:00] Cain Locke [Balmung] CrossWorldLinkShell_1: *bone shield
+[2024-05-21 20:22:40+01:00] Lanvert Frost CrossWorldLinkShell_1: Was it middies who have the proper kneel animation? Lemme check
+[2024-05-21 20:22:41+01:00] Cain Locke [Balmung] CrossWorldLinkShell_1: Also, will make sure to blast any foes threatening you with Fire 4 (almost wrote that 'foe' with an H, pfft)
+[2024-05-21 20:23:00+01:00] Lanvert Frost CrossWorldLinkShell_1: Gay, they do not
+[2024-05-21 20:24:28+01:00] Cain Locke [Balmung] CrossWorldLinkShell_3: Upon closer inspection, the plant matter (A) appears to have been torn apart and perhaps even chewed upon. The leaves fit the description, but what can be found seems to be damaged to the point where it probably cannot be used. The thinner blood trail leads further northwest.
+[2024-05-21 20:25:18+01:00] Yoki Yokiki [Balmung] CrossWorldLinkShell_2: Yoki strides up alongside Lanvert, hands on her hips. "Yep," she comments. "Definitely plant."
+[2024-05-21 20:25:51+01:00] Polarhine Mennarc [Mateus] Say: Well then, if there's been a scuffle... Then it's time for me to keep a weather eye.
+[2024-05-21 20:26:11+01:00] Cain Locke [Balmung] Say: "From what I know and remember, the previous Unsung levemetes also had the habit of participating in leves, though it seems less common with other groups." Cain glances at Vivira for confirmation and then blinks. "...Why are you standing behind me?"
+[2024-05-21 20:28:21+01:00] Vivira Vira [Balmung] Say: "Huh? Do you mean As'kari? Yes, the guy liked to be in the thick of things. Not Sven, though. I'm not standing /behind/ you, I'm standing on this perfectly good road where people stand."
+[2024-05-21 20:28:24+01:00] Lanvert Frost Say: "These- are actually what we're lookin' for, as luck would have it," he informed the band as he knelt down to lift them for inspection. "Somethin' had a nibble on them, too. But there's blood. Might be a creature that feeds on 'em got had by a predator." He sniffed at the plants. "If we follow th' blood, chances are we'll run into whatever it was that drew blood."
+[2024-05-21 20:29:05+01:00] Vivira Vira [Balmung] Say: "So we should just go in the opposite direction of the blood? Understood, let's go," she called out.
+[2024-05-21 20:29:36+01:00] Cain Locke [Balmung] CrossWorldLinkShell_3: If anyone happens to touch the mangled plants, they seem to twitch for a second and then go still.
+[2024-05-21 20:29:38+01:00] Polarhine Mennarc [Mateus] Emote:  pins her gaze on the top of the hill ahead, near the face of the rock. She stiffens, slowly holding out her hand towards Luca, her voice hushed. "Hey, Luca! Hey, hey!"
+[2024-05-21 20:29:58+01:00] Luca Myste [Balmung] Say: "What's up?"
+[2024-05-21 20:30:39+01:00] Yoki Yokiki [Balmung] Emote:  pauses in though, then begins to lean down. "Well, I mean, leve complete if we just pick this up, then? Remarkably unexciting." If no one stops her, she does just try to snatch the discarded fauna, and would promptly fall on her rear with a shocked squeal when the stuff twitches.
+[2024-05-21 20:30:44+01:00] Polarhine Mennarc [Mateus] Emote:  nods forward, arm slowly rising to point over yonder at a lonesome chocobo on the hill, the creature pristine-feathered and drawn by curiosity, and a shade of crimson around its beak.
+[2024-05-21 20:30:50+01:00] Cain Locke [Balmung] TellRecieve: *Given your knowledge about the area and its fauna, you might be able to surmise from the size of the blood trail coming to the spot that the injured creature was fairly large and walked on four feet; in other words, not a chocobo, at least.*
+[2024-05-21 20:30:56+01:00] Lanvert Frost Say: "...did that just move?" Lanvert stared suspiciously at the wilted stems between his fingers. "Huh."
+[2024-05-21 20:31:09+01:00] Polarhine Mennarc [Mateus] Say: There, there! Y'see that, right? Should tell the others...
+[2024-05-21 20:32:16+01:00] Luca Myste [Balmung] Say: "Huh... is that blood on its beak? It must have been in a fight. Doesn't seem too scared of us, though. Think we found at least part of that blood's source, friends!"
+[2024-05-21 20:32:50+01:00] Polarhine Mennarc [Mateus] Emote:  slowly nods and hums in rhythm. Agreed!
+[2024-05-21 20:33:20+01:00] Cain Locke [Balmung] Say: "Making sure you keep a close eye on my doings, hm?" Cain jokes. The lightheartedness doesn't last long, though, not when there's blood and whatnot around.
+[2024-05-21 20:33:25+01:00] Lanvert Frost Emote:  moved to offer Yoki a hand up, unless she was faster to get back on her feet. "Easy. They're dead, not much use to us in this state. Seems they wriggle a bit."
+[2024-05-21 20:33:26+01:00] Polarhine Mennarc [Mateus] Say: It sure don't look like grape juice to me, so... Yeah, I'd say blood.
+[2024-05-21 20:34:17+01:00] Yoki Yokiki [Balmung] Emote:  is delighted to take a hand, a proper dainty damsel as she let herself be helped up. Dusting off her garments, she huffs. "Right. Living plantlife then. Sure. ... I mean, they're not really alive, they're plants, anyway. But, I get it."
+[2024-05-21 20:34:18+01:00] Yoki Yokiki [Balmung] CrossWorldLinkShell_2: sit
+[2024-05-21 20:34:35+01:00] Polarhine Mennarc [Mateus] CrossWorldLinkShell_2: paw out
+[2024-05-21 20:34:35+01:00] Yoki Yokiki [Balmung] CrossWorldLinkShell_1: "INUYASHA, SIT"
+[2024-05-21 20:34:39+01:00] Polarhine Mennarc [Mateus] CrossWorldLinkShell_2: good boiii /snack
+[2024-05-21 20:34:45+01:00] Polarhine Mennarc [Mateus] CrossWorldLinkShell_1: OOPS
+[2024-05-21 20:34:51+01:00] Polarhine Mennarc [Mateus] CrossWorldLinkShell_1: MY BAD I got carried away
+[2024-05-21 20:34:52+01:00] Celica Ashworth [Balmung] CrossWorldLinkShell_1: I AM HOWLING
+[2024-05-21 20:34:56+01:00] Cain Locke [Balmung] CrossWorldLinkShell_3: Up where Polar and Luca are looking is indeed a chocobo watching the group with near unblinking stare. It looks unharmed, but its beak gleams with something red and damp.
+[2024-05-21 20:35:08+01:00] Vivira Vira [Balmung] Say: "Yes, just marking your performance as a levemete, surprise!" Boney or not, a shield was better than no shield. Chubby had no such worries though, and happily ran back and forth between different interesting bits - Yoki on the ground, twitchy plants, Polar calling out, only to rush back to have a good sniffle at the blood.
+[2024-05-21 20:35:11+01:00] Luca Myste [Balmung] Say: "Potentially viscious killer of a 'bo dead ahead, cap'n Cain."
+[2024-05-21 20:35:14+01:00] Cain Locke [Balmung] CrossWorldLinkShell_3: (At marker (B)
+[2024-05-21 20:35:58+01:00] Lanvert Frost Say: "Plants're alive, just not in th' same way that you and I are," Lanvert informed Yoki after she got up, safe and well. He only then looked down the road towards Luca. "You found th' culprit already? Well, then. For what it's worth, whatever kind of creature got injured? It didn't walk on two legs. Most likely four. So, not another 'bo."
+[2024-05-21 20:36:55+01:00] Luca Myste [Balmung] Say: "Polar's sharp eyes did. You think it fought off a bandersnatch? That's one impressive bird if so."
+[2024-05-21 20:37:46+01:00] Polarhine Mennarc [Mateus] Emote:  clears her throat quickly. "Eye, actually," she says off-handedly, running a finger across her left-eye as if to cross it, out of the picture.
+[2024-05-21 20:38:25+01:00] Luca Myste [Balmung] Say: "Hmm? Yeah, you. I made sure you got credit," Luca says, because language is silly and that's what she took from that.
+[2024-05-21 20:38:44+01:00] Polarhine Mennarc [Mateus] Say: WhatnoI---
+[2024-05-21 20:39:18+01:00] Polarhine Mennarc [Mateus] Emote:  catches on to the misperception, nodding away the confusion, and a smile to close the chapter.
+[2024-05-21 20:39:21+01:00] Cain Locke [Balmung] Emote:  turns to look at the chocobo after it is pointed out. "Seven hells. I'm not surprised that a chocobo can put up a fight, but against a predator, perhaps..." He trails off. "Is it safe for us to move forward? I'm not sure if I like how it's standing there."
+[2024-05-21 20:39:55+01:00] Polarhine Mennarc [Mateus] Say: Thanks, Luca. You're the best!
+[2024-05-21 20:40:07+01:00] Vivira Vira [Balmung] Emote:  watches as Chubby rushes to her, sparkling wildly. The sparkles turn red, then burn up, or least look like they do. "Hm," Vivira hums. "Something fire aspected? Anything fire aspected around these parts, Frost," she calls out to the guide.
+[2024-05-21 20:40:15+01:00] Polarhine Mennarc [Mateus] Emote:  nods again. Yep.
+[2024-05-21 20:40:21+01:00] Yoki Yokiki [Balmung] Say: ~
+[2024-05-21 20:40:31+01:00] Yoki Yokiki [Balmung] CrossWorldLinkShell_1: i am on fire with the mistypes today, sorry
+[2024-05-21 20:40:38+01:00] Polarhine Mennarc [Mateus] CrossWorldLinkShell_1: what did yoki mean by this
+[2024-05-21 20:40:46+01:00] Cain Locke [Balmung] CrossWorldLinkShell_1: Happens to the best of us, no worries
+[2024-05-21 20:41:21+01:00] Luca Myste [Balmung] Emote:  grins. "I have my moments." Her eyes turn back to the chocobo, just in case it does something. Maybe this is a brand new species that spits acid. She doesn't know.
+[2024-05-21 20:42:03+01:00] Cain Locke [Balmung] Emote:  tugs his braid at the notion of getting graded, although Chubby's return provides a distraction. "Fire-aspected? Curious."
+[2024-05-21 20:42:15+01:00] Polarhine Mennarc [Mateus] Emote:  resumes her vigil over the feathered observer. Her head stays still, letting only her eyes shift to glance the chocobo's surroundings.
+[2024-05-21 20:43:05+01:00] Lanvert Frost Emote:  backed off from the hill the chocobo was defending, and quite well if the blood was anything to go by. "As long as we don't make too much noise and steer clear of them, we should be fine. Might be th' 'bo up there has a nest they're defending."
+[2024-05-21 20:43:22+01:00] Polarhine Mennarc [Mateus] CrossWorldLinkShell_1: turbo brb bathroom
+[2024-05-21 20:43:51+01:00] Yoki Yokiki [Balmung] Say: "I mean, we could probably just explain to the bird what we're doing, if it looks like things are getting tense."
+[2024-05-21 20:44:56+01:00] Cain Locke [Balmung] Say: "Explain...? Er, do you know how to speak with them, Yoki?" Cain asks and blinks.
+[2024-05-21 20:45:14+01:00] Lanvert Frost Say: "Never had a conversation with th' beasts of th' wilds that went well, but chances are I don't got your talent for diplomacy," the hunter chuckled.
+[2024-05-21 20:45:39+01:00] Yoki Yokiki [Balmung] Emote:  tilts her head to the side. "I mean, they don't speak a language or something, but I like to think that most creatures understand body language and the vague vibes of what you're trying to say."
+[2024-05-21 20:45:50+01:00] Yoki Yokiki [Balmung] Say: "And if you just listen to them and look properly, it just makes sense."
+[2024-05-21 20:47:21+01:00] Vivira Vira [Balmung] Say: "I don't even understand the body language of most people, why would a chocobo that hasn't been around people know? Anyroad, we can just move out of the area its guarding, no?" She eyed the chocobo warily as she spoke.
+[2024-05-21 20:48:44+01:00] Cain Locke [Balmung] Emote:  blinks again before nodding slowly. "Empathy, or something like that. Not a bad idea to keep in mind, I reckon... Let's see if we can avoid confrontation by moving out but be prepared."
+[2024-05-21 20:48:59+01:00] Polarhine Mennarc [Mateus] CrossWorldLinkShell_1: baac
+[2024-05-21 20:49:32+01:00] Yoki Yokiki [Balmung] Emote:  gives a firm nod back, and a strong thumbs-up."
+[2024-05-21 20:50:02+01:00] Luca Myste [Balmung] Say: "I'll wear my winning smile. Uh - but no teeth, I think that's a sign of hostility in animals?"
+[2024-05-21 20:50:54+01:00] Lanvert Frost Emote:  turned to the stairs. He started on up them. He did, briefly, pause to look back and make sure Yoki and Vivira wouldn't have any issues climbing them. They did seem to be in slight disrepair. "Agreed, best to press on and steer clear of angry momma 'bos."
+[2024-05-21 20:51:09+01:00] Cain Locke [Balmung] Say: "I reckon no ruffling hair, either; one thing I know about chocobos is that they puff out their feathers when they feel threatened. But yeah, let's continue."
+[2024-05-21 20:51:28+01:00] Polarhine Mennarc [Mateus] Say: I read somewhere that bein' the case among opo-opos. The smilin' thing, that is.
+[2024-05-21 20:51:54+01:00] Yoki Yokiki [Balmung] Emote:  strategically picks out the steps that are closer together, essentially skipping upwards.
+[2024-05-21 20:52:52+01:00] Cain Locke [Balmung] CrossWorldLinkShell_3: The chocobo hasn't approached them while they have been talking, but neither has it stopped staring. As they continue, it continues watching for a moment and then turns to walk away.
+[2024-05-21 20:54:20+01:00] Vivira Vira [Balmung] Emote:  hop hops without issues either. She's used to living in a world that is not designed for her, especially in Gridania with all the elezen about.
+[2024-05-21 20:54:38+01:00] Lanvert Frost Party: eeek we have lost people
+[2024-05-21 20:54:49+01:00] Cain Locke [Balmung] CrossWorldLinkShell_3: If anyone inspects the stairs while they ascend, they may notice that the grapple plant pointedly doesn't seem to grow on the steps: the only traces are on the railings, and those are scarce, too, suggesting that what little was growing there got devoured.
+[2024-05-21 20:54:51+01:00] Yoki Yokiki [Balmung] CrossWorldLinkShell_1: my bad, lol!
+[2024-05-21 20:56:11+01:00] Cain Locke [Balmung] Say: "All kinds of plants here... but not a lot that would fit our description."
+[2024-05-21 20:56:26+01:00] Polarhine Mennarc [Mateus] CrossWorldLinkShell_1: what the
+[2024-05-21 20:56:39+01:00] Yoki Yokiki [Balmung] CrossWorldLinkShell_1: lamvert is running away
+[2024-05-21 20:56:47+01:00] Lanvert Frost CrossWorldLinkShell_1: eeeek
+[2024-05-21 20:56:52+01:00] Vivira Vira [Balmung] CrossWorldLinkShell_1: He's just like 'fuck these noobs'
+[2024-05-21 20:57:03+01:00] Lanvert Frost CrossWorldLinkShell_1: Sorry, I was looking at the map
+[2024-05-21 20:57:40+01:00] Cain Locke [Balmung] CrossWorldLinkShell_1: I saw those mobs spawn but it took me a moment to react, whoops... Let's stop here for a bit, anyway
+[2024-05-21 20:59:26+01:00] Luca Myste [Balmung] Emote:  gives the area a lookover, but gets distracted by the floating peak of Sohm Al in the distance. "Fair bit of structure ruins here, might be a good spot?"
+[2024-05-21 20:59:48+01:00] Cain Locke [Balmung] CrossWorldLinkShell_3: The group passes what appears to be a ruined gate or similar. There seem to be some plants atop it, though not much.
+[2024-05-21 21:00:32+01:00] Cain Locke [Balmung] CrossWorldLinkShell_1: I would've placed the marker up but the game doesn't allow me :(
+[2024-05-21 21:00:40+01:00] Yoki Yokiki [Balmung] Say: "... I uh. I'm growing increasingly worried we're going to be jumped the moment we find a batch sufficient for the rest of you to harvest."
+[2024-05-21 21:00:55+01:00] Polarhine Mennarc [Mateus] Emote:  takes a few steps back, taking a measure of the arch-shaped ruin around her, eyes widening in surprise as she realises what it may have been. Ahh.
+[2024-05-21 21:01:09+01:00] Vivira Vira [Balmung] Say: "These trees are weird," she commented. Vivira hadn't noticed the plants they were looking for, because she was too busy looking at the trees.
+[2024-05-21 21:01:16+01:00] Lanvert Frost Emote:  paused by the arch to inspect it. He took a few backsteps, peering up at its peaks. "Well, I've got my hook. I could try climbing up there, just so we don't head back empty-handed if there's nothing further up ahead," Lanvert proposed. "You said you had rope, Cain?"
+[2024-05-21 21:01:48+01:00] Vivira Vira [Balmung] Say: "Agreed," she told Yoki. "Did your straightsword friend person say anything about what might like to snack on these things? Or you, Frost?"
+[2024-05-21 21:02:24+01:00] Luca Myste [Balmung] Say: "I'll keep my wind magic handy in case you fall! I might be able to cushion that a bit. But I'm sure you won't need it!"
+[2024-05-21 21:03:34+01:00] Polarhine Mennarc [Mateus] Say: Startin' to wonder how much gil can these gnarly herbs net you...
+[2024-05-21 21:03:49+01:00] Cain Locke [Balmung] TellSend: Would he have any idea what herbis/omnis might like to feed on these plants? )
+[2024-05-21 21:04:50+01:00] Cain Locke [Balmung] Say: "He mentioned that he was aware that the plant would most likely 'not grow in the most secure areas', but he didn't say anything about what might or might not eat it. But yeah, I did bring some rope." Cain starts rummaging his satchel to take out a bundle of rope to throw at Lanvert.
+[2024-05-21 21:06:03+01:00] Yoki Yokiki [Balmung] Emote:  snaps her fingers. "I like to think we have simpler and less dangerous solutions at our fingertips. What if we simply demolish the structure with explosive magic, and maybe mundane demolitions as well. Then just collect the plants from the debris?"
+[2024-05-21 21:06:32+01:00] Cain Locke [Balmung] TellRecieve: ( He might know that the loaghtans at least chew on them occasionally, and stories exchanged between local hunters could have suggested that even some beasts like lesser wyrms sometimes eat them when they are injured. )
+[2024-05-21 21:07:28+01:00] Cain Locke [Balmung] TellRecieve: ( Maybe even bandersnatches. The stories get more colourful the deeper the hunters are in their cups. )
+[2024-05-21 21:07:41+01:00] Polarhine Mennarc [Mateus] Say: I think that's gonna bruise the plants!
+[2024-05-21 21:07:46+01:00] Vivira Vira [Balmung] Say: "Well, for one, that would probably explode the plant as well. More importantly though, these structures are treasures to be studied at some point, not blown up."
+[2024-05-21 21:07:54+01:00] Lanvert Frost Emote:  caught the coil over his forearm, then unlatched his hook. He tied a secure knot around the loop, then edged his way up the hill while starting to swing the hook in a lazy windmill to build up momentum. "Explosive magic is... less dangerous?" he echoed, bemused. Trying not to think too hard about that, he launched the hook when he felt he had a good angle, and... just hoped it latched onto something.
+[2024-05-21 21:09:06+01:00] Lanvert Frost Say: "Ah, shoot." The hook lodged into the stone, but it crumbled away the moment he put any weight on it. He let it drop the ground while standing back a safe distance.
+[2024-05-21 21:09:28+01:00] Vivira Vira [Balmung] Say: "Gotta say, that boy is quite hands-on," Vivira remarked, and her mildly less judgemental than normal tone suggested... a compliment? Maybe? Appreciation? Was that possible?
+[2024-05-21 21:09:34+01:00] Cain Locke [Balmung] Say: "I think I agree with Vivira and Polar in this one, I have to say. I wonder if your... eh, the spell you used for pulling people out of that burning house could be used to grab plants safely? In case you want to employ magic."
+[2024-05-21 21:09:39+01:00] Yoki Yokiki [Balmung] Emote:  shifts her weight entirely onto a hip, a hand coming up to rub her chin. "True. True. Hmm. Surely there's just a magical solution to this."
+[2024-05-21 21:10:06+01:00] Vivira Vira [Balmung] Say: "We could just toss Chubby up there, I bet Frosty had a strong enough arm for that."
+[2024-05-21 21:10:07+01:00] Yoki Yokiki [Balmung] Say: "... Ah! Yes, my toad tongue. Please do not ask how I acquired it. I'll give it a shot, certainly."
+[2024-05-21 21:10:09+01:00] Lanvert Frost CrossWorldLinkShell_1: Yoki is the definition of 'when all you have is a hammer, every problem looks like a nail'.
+[2024-05-21 21:11:11+01:00] Cain Locke [Balmung] Say: "Wouldn't Chubby mind that?"
+[2024-05-21 21:11:28+01:00] Yoki Yokiki [Balmung] Emote:  finds herself a stray stone to stand upon, moreso for dramatic height rather than any practical purpose. She tosses her hair, and murmur a one-liner under her breath (too embarassed to say it loud), and summons azure prisms around her person. Soon, there's a mlem, a loooong tongue slapping haphazardly at the plantlife above.
+[2024-05-21 21:11:32+01:00] Vivira Vira [Balmung] Emote:  deadpans at Cain. "...Have you met Chubby..?"
+[2024-05-21 21:12:59+01:00] Luca Myste [Balmung] Emote:  watches Yoki with a mixture of awe, fascination and slight discomfort. Sort of gross, sort of cool; she's torn.
+[2024-05-21 21:13:27+01:00] Cain Locke [Balmung] Say: "I thought Chubby preferred being cuddled or carried, not tossed around." Cain's attention is more on Yoki and her tongue spell than Vivira, though.
+[2024-05-21 21:14:17+01:00] Yoki Yokiki [Balmung] Emote:  probably puts a fair bit of progress on dislodging the plantlife, though she struggles to find the right level of strength needed to remove them without damaging them.
+[2024-05-21 21:14:54+01:00] Lanvert Frost Emote:  reeled his hook and the rope back in while Yoki made her attempt at collecting the herbs. "Well, there's somethin' you don't see every day," he remarked. If he heard the comments about him lobbing the carbuncle, he.. probably didn't know how to respond to that. Poor Chubby.
+[2024-05-21 21:15:15+01:00] Vivira Vira [Balmung] Emote:  winces at the tongue display. "Say, I know this isn't the Shroud and all, but should we really be destroying to much of this plant? Wouldn't it be in our best interests if we leave enough for it to grow back? And Chubby doesn't mind being tossed, no."
+[2024-05-21 21:16:01+01:00] Vivira Vira [Balmung] Say: || Chubby heard their name often to know that something is up, and happily hopped to Vivira to see what today's scheme was going to be.
+[2024-05-21 21:16:52+01:00] Luca Myste [Balmung] Emote:  ponders upon the structure. Just how high up is the herb?
+[2024-05-21 21:18:09+01:00] Cain Locke [Balmung] CrossWorldLinkShell_3: A few plants fall down at roughly (C) after being dislodged. The leaves seem at least somewhat bruised, but the tuber-shaped roots are made of tougher stuff and at least some of them look usable. It'd require an alchemist to say more, probably.
+[2024-05-21 21:18:43+01:00] Cain Locke [Balmung] CrossWorldLinkShell_3: There are still some more herbs growing between the third and fourth row of stones.
+[2024-05-21 21:19:06+01:00] Yoki Yokiki [Balmung] Emote:  puts in another last dash of effort, eyes squinting behind her protective lenses. They actually become a bit jostled from all the flourished spellcasting, so she has to spend time readjusting them. She holds up a hand in surrender, and sits down. "... Phew." She swallows air. "Thaliak take me, I hate sustained casting.
+[2024-05-21 21:19:14+01:00] Cain Locke [Balmung] CrossWorldLinkShell_3: There might be more atop the ruins, but it is difficult to see from this angle.
+[2024-05-21 21:20:27+01:00] Cain Locke [Balmung] Say: "We're not going to grab all we can find, no, though we might need a bit more. Getting it gently might become a problem though..."
+[2024-05-21 21:20:36+01:00] Luca Myste [Balmung] Emote:  is no master alchemist (yet), but perhaps she can at least discern if what was dislodged is usable. She gingerly bends down to collect up the earnings and give them a look over. "Let's see..."
+[2024-05-21 21:21:27+01:00] Lanvert Frost Say: "You did better than I," Lanvert told the 'azure sorceress'. He trotted over to the pile to accompany Luca in assessing them. "We can take the best bits of this bunch and continue th' search for more up ahead. It's not nothin', at least."
+[2024-05-21 21:22:08+01:00] Luca Myste [Balmung] Say: "I can give getting up there a go, but it might be wasted effort if there's not much else there."
+[2024-05-21 21:23:14+01:00] Vivira Vira [Balmung] Emote:  nods to Chubby, who runs off again, circling around the group to make sure nothing was sneaking up on them. At least not from the ground.
+[2024-05-21 21:23:58+01:00] Vivira Vira [Balmung] Say: "You consider that gently? Well, alright then. Maybe this would have been easier had we hired some of those famed black chocobos from Ishgard. They eh.. do rent those out, do they?"
+[2024-05-21 21:25:04+01:00] Luca Myste [Balmung] Emote:  sifts through the potential ingredients, and her budding alchemist's eye reveals enough to work with. "I think the tubers are enough, but we probably want more leaves for effectiveness... there's a bunch that got a bit too tongued, so we'll need to find some more intact leaves, I think. Better to err on the safe side!"
+[2024-05-21 21:26:11+01:00] Yoki Yokiki [Balmung] Emote:  huffs. "If we really want to involve a chocobo, I could whistle for Cactusflower, but I really prefer not to unless I am about to die." She pauses. "Which has come up alarmingly often. But, uh, still."
+[2024-05-21 21:27:09+01:00] Cain Locke [Balmung] Say: "Eh, maybe we should save that as a last resort, then. You mentioned that there might be more plants somewhere up ahead, right, Lanvert?"
+[2024-05-21 21:27:16+01:00] Vivira Vira [Balmung] Say: || Chubby comes racing back at full speed, jumping for a flying kick with all its foor paws right into Lanvert's back. The man could dodge the buncle, of course, but if he didn't he'd find that the impact felt no heavier than a brusque wind. Either way, Chubby would then start to 'talk' to him with a lot of red sparkles that burn up moments after they appear.
+[2024-05-21 21:27:34+01:00] Polarhine Mennarc [Mateus] Emote:  huffs. "Tongued," she murmurs and stifles a chuckle, busy to smother any urge to reveal her amusement.
+[2024-05-21 21:28:00+01:00] Polarhine Mennarc [Mateus] Emote:  elects to resume her watch duty to keep her mind occupied.
+[2024-05-21 21:28:19+01:00] Lanvert Frost Say: "I'm not confident th' stones up top could hold my weight, let alone a chocobo's. It'd be- oof." He stumbled a step, not having seen Chubby at all, and not having heard those feather-light, aetheric steps, either. "What in th'... huh? What's that, Chubs?"
+[2024-05-21 21:29:34+01:00] Luca Myste [Balmung] Emote:  carefully tucks the success of Yoki's frog magic into her herbalist's pouch, which she always keeps handy for just such an occassion.
+[2024-05-21 21:29:39+01:00] Lanvert Frost Say: "Miss levescribe, I reckon something's got Chubby here all riled up." Even without 'understanding' the carbuncle, the hunter's guard went up when he saw the sparkles turn red, and he lifted his gaze on the lookout for impending danger. His hand was, also, moving for his bow.
+[2024-05-21 21:29:48+01:00] Vivira Vira [Balmung] Say: || Chubby sparkles, jumping up and down in what seemed to be either a panicked or enthusiastic manner. They'd race off towards (1) for a bit, then runs back to Lanvert only to race off again. "Huh," Vivira remarks. "I think Chubby found the source of the blood earlier."
+[2024-05-21 21:31:16+01:00] Yoki Yokiki [Balmung] Emote:  peers over at Vivira. She winces. "... Well, I can't say I'm too pleased to be so close to a carcass; I presume."
+[2024-05-21 21:31:21+01:00] Cain Locke [Balmung] CrossWorldLinkShell_3: With Chubby's guidance, everyone can spot the creature lying at (1). It has mean-looking fangs and looks like some kind of a cat-dog hybrid, revealing it to be a bandersnatch. It isn't moving, however, but rather resting its head on its front paws and lying still.
+[2024-05-21 21:32:03+01:00] Yoki Yokiki [Balmung] CrossWorldLinkShell_1: did you know, Catdog used to be Nickolodeon's #1 IP, and then Spongebob happened and erased it from existence?
+[2024-05-21 21:32:10+01:00] Vivira Vira [Balmung] Say: "Oh for gil's sake. Right, let's get away while we can, shall we," Vivira gulps as she spots the creature in the distance, taking a step back.
+[2024-05-21 21:32:11+01:00] Celica Ashworth [Balmung] CrossWorldLinkShell_1: YES
+[2024-05-21 21:32:16+01:00] Vivira Vira [Balmung] CrossWorldLinkShell_1: Catdog was so WEIRD
+[2024-05-21 21:33:06+01:00] Cain Locke [Balmung] CrossWorldLinkShell_3: Those with keen eye or two can perhaps see red stains in the creature's fur, as well as a few droplets of blood leading to where it has lied down.
+[2024-05-21 21:33:07+01:00] Yoki Yokiki [Balmung] CrossWorldLinkShell_1: pre and post-spongebob Nick is completely different vibes, and I think real monsters/angry beavers/rugrats/catdog are an absolute era
+[2024-05-21 21:33:35+01:00] Yoki Yokiki [Balmung] Say: "... Okay, this might sound obvious, but I have zero experience with, uh, corpses. ... How fresh is that? Should I be panicking? I'm honestly too tired to be worried."
+[2024-05-21 21:33:58+01:00] Polarhine Mennarc [Mateus] Say: Sure it's dead?
+[2024-05-21 21:34:07+01:00] Lanvert Frost Emote:  followed Chubby's back-and-forth darting, but he was rooted to the spot, and he licked his lips when he caught sight of the creature. "Mm. Trappers in Tailfeather say they'll sometimes eat th' plants we're lookin' for when they're hurt. This one got too close to an ornery 'bo, looks like, and now they're wounded. ...and they're still dangerous, make no mistake, even when they're hurt. Perhaps more so."
+[2024-05-21 21:34:09+01:00] Polarhine Mennarc [Mateus] Emote:  glances Yoki's way, the question weighing heavy on her eyes.
+[2024-05-21 21:35:05+01:00] Vivira Vira [Balmung] Say: "Luca, do you have something akin to a mana potion for Yoki?" She bit on her lower lip, then glanced to Cain. "If its hurt, should we try and help it..?"
+[2024-05-21 21:36:00+01:00] Luca Myste [Balmung] Say: "I do, but I can't vouch for its effectiveness... or its taste. Sorry, Yoki."
+[2024-05-21 21:37:53+01:00] Luca Myste [Balmung] Emote:  whips out a little vial of bright yellow liquid, which she holds forward to Yoki. "Distilling the aetheric essence of elemental crystals is trickier than it sounds," she says. "I tried to add some nice flavour to my last batch and..." she trails off. Probably better not to say.
+[2024-05-21 21:38:02+01:00] Yoki Yokiki [Balmung] Emote:  splutters out a denial at the potion, but eventually sighs and grabs the swill when it's offered. "Ugh. Don't worry. Sorry. Just not used to, uh, actually... working?" She waves a free hand. "Usually things end in two spells, one way or the other." With a chuckle, she shifts into a more demure sitting posture, and sips very delicately.
+[2024-05-21 21:38:10+01:00] Yoki Yokiki [Balmung] Emote:  's eyes pop wide once the 'flavor' hits.
+[2024-05-21 21:39:02+01:00] Cain Locke [Balmung] Emote:  glances from the bandersnatch to Vivira and back. "I'm not sure. Some creatures get very aggressive when they are hurt like Lanvert said, so we could be putting ourselves in danger." He rubs his lips while thinking. "Not that seeing hurt and bloodied would be pleasant. Maybe we can walk past it from a safe distance and try to see if it reacts, assuming that it's conscious or even alive."
+[2024-05-21 21:39:51+01:00] Vivira Vira [Balmung] CrossWorldLinkShell_1: I like the idea that Luca is one of those hobby beer brewing people that add weird flavours to everything, and sometimes it works well while other times it just tastes like rotten fruit, hahah
+[2024-05-21 21:40:21+01:00] Lanvert Frost Say: "We do need to head that way if we want a better chance at findin' more of th' herb. We can give it a wide berth, and if it makes a move, well... spread out, and we'll cross that bridge when we get to it," the hunter proposed.
+[2024-05-21 21:40:34+01:00] Vivira Vira [Balmung] Say: "Well, I could try and have Chubby deliver a sleep spell, though I don't know if that works on non-spoken. You yourself have experience with sleep spells as well, don't you?"
+[2024-05-21 21:40:59+01:00] Cain Locke [Balmung] CrossWorldLinkShell_1: Oh gods, that reminded me of the foulest of drinks I tasted a little while ago...
+[2024-05-21 21:41:04+01:00] Cain Locke [Balmung] CrossWorldLinkShell_1: If Luca's potions tasted like a mixture of salted liquorice and raspberry, that'd sure be something :p
+[2024-05-21 21:41:06+01:00] Luca Myste [Balmung] CrossWorldLinkShell_1: "luca this tastes like a damp sock." "...i'm sure there's a market out there for that"
+[2024-05-21 21:41:09+01:00] Celica Ashworth [Balmung] CrossWorldLinkShell_1: malort
+[2024-05-21 21:41:50+01:00] Yoki Yokiki [Balmung] Emote:  has to fight her gag reflex to swallow. There's an audible gulp. Her eyes water. A tiny trail of fluid shimmers out of the corner of her lip. When she gasps for air, a citrus scent follows her panting. "... Mmm!" she says. "D-delicious!"
+[2024-05-21 21:42:46+01:00] Lanvert Frost Emote:  headed over to Yoki. He offered her a small metal flask. "It's... it's gin, if you want somethin' to uh, wash that down with," he told her.
+[2024-05-21 21:43:24+01:00] Yoki Yokiki [Balmung] Say: "... My therapist usually hit me with a sleep spell whenever he intended to make efforts upon me, but uh,  that won't be too necessary!" She looks to the gin. Back to her potion. Dismay strikes her face. With a solemn nod, she takes the flask... and kind of just begins nursing both drinks at once.
+[2024-05-21 21:43:51+01:00] Yoki Yokiki [Balmung] Say: "D-Don't... don't wait on me. I'll catch up. I'm sure there's, uh, work to be done!!"
+[2024-05-21 21:44:06+01:00] Luca Myste [Balmung] Emote:  offers an apologetic smile. She's not quite sure what the effects of gin and bootleg ether will be, but she's sure it's fine. It'll be fine.
+[2024-05-21 21:44:19+01:00] Cain Locke [Balmung] Say: "I can prepare a Sleep spell to cast at it as long as I get a moment. Do we have anything to heal it with, though?"
+[2024-05-21 21:45:03+01:00] Lanvert Frost Say: "You- don't have to drink it," Lanvert assured her. "Just figured I'd offer. We'll wait; can't be leavin' you here on your own with a predator dozin' or dyin' just fulms away."
+[2024-05-21 21:45:50+01:00] Vivira Vira [Balmung] Say: "I'm no Charlette, but I can do /some/ healing if needs be. And Frosty is a hunter, I assume he knows how to stitch a wound?" That is quite the assumption there.
+[2024-05-21 21:47:00+01:00] Lanvert Frost Say: "I'm..." A breath caught in Lanvert's throat. "You'd want me to patch th' bandersnatch up? Gods, I... I could, I can, but... heh. Didn't take you for bein' th' soft-hearted kind, levescribe."
+[2024-05-21 21:47:24+01:00] Polarhine Mennarc [Mateus] Emote:  shoots the occassional glance to the group, anticipating, stretching her leather-gloved fingers.
+[2024-05-21 21:47:35+01:00] Yoki Yokiki [Balmung] Emote:  slugs down her assorted swill, and gently sets the two drinks besides her. Her lips are puckered like someone who's just had overly sour candy. Were it not for her heavy makeup, there's no doubt her face would be fully flushed. "... I'm something of a healer myself, I... I suppose! I didn't harass a Postmoogle for weeks for nothing!"
+[2024-05-21 21:48:33+01:00] Cain Locke [Balmung] Emote:  blinks as if Vivira knowing healing magicks had actually surprised him a little. "Right, you are trained in a variety of arcanima. Do you think you could have Chubby tell you if the beast is asleep or just pretending to? Then, if it seems safe enough to approach, we could deal with the worst of the damage it has taken before we move out."
+[2024-05-21 21:48:58+01:00] Vivira Vira [Balmung] Say: "Well, we either patch it up or kill it if it's not already dead, but if it's in enough pain to eat those plants I feel like it would be heartless to leave it be. Besides, how does it even know to use the plant? They are not plant-eaters, I presume? Are bandersnatches normally this intelligent?"
+[2024-05-21 21:49:33+01:00] Luca Myste [Balmung] Say: "They're usually too busy clawing heads off."
+[2024-05-21 21:50:36+01:00] Lanvert Frost Say: "Mmh. I'm gettin' paid for this, so whatever you want is what you'll get," Lanvert shrugged. "Some beasts'll eat grass to get themselves to regurgitate if they're not feelin' well, 'cause they don't have th' natural reflex. It's probably instinct, or learned from a parent."
+[2024-05-21 21:50:58+01:00] Vivira Vira [Balmung] Emote:  looked to Cain, then to Chubby, calling the Carbuncle over as she took her book and flipped through the pages. She drew some symbols in the air, speaking words of power as she did so. Afterwards Chubby didn't sparkle anymore, and its light was dimmed. They looked ghostly, almost transparant. "We can always give it a go. She nodded to Chubby again, who then walked towards the snatch, but this time they weren't bouncing about, but being more sneaky, like a prowling cat.
+[2024-05-21 21:53:45+01:00] Cain Locke [Balmung] CrossWorldLinkShell_3: The bandersnatch doesn't react to Chubby's approach; then again, given how stealthy the carbuncle turned, it might not be so surprising. It hasn't moved at all during this time, and from distance, it's difficult to say if it's breathing.
+[2024-05-21 21:54:47+01:00] Vivira Vira [Balmung] Emote:  makes damned sure that he bone shield is between her and the bander even if the creature is quite far away. Chubby continued to approach it, but place doesn't reach further than this so we'll just have to imagine it.
+[2024-05-21 21:55:22+01:00] Yoki Yokiki [Balmung] Emote:  pops up to her feet eventually, aided or not, and delivers her drinkvessels back to their original owners. More importantly, she delivers the cutest of thank yous, a delightful small smile that twinkles her eyes and the lightest curtsey.
+[2024-05-21 21:56:41+01:00] Cain Locke [Balmung] Emote:  steps a little bit closer to get a better look. "How close do you need to be in case we go the healing route, Vivira and Yoki?"
+[2024-05-21 21:57:10+01:00] Yoki Yokiki [Balmung] Say: "Eh? As far away as I tend to be for most spellcastings. Adjacency isn't really a concern, moreso the musical bell that intones when I work."
+[2024-05-21 21:57:47+01:00] Vivira Vira [Balmung] Say: "I'd need to, eh, touch it," she replied in a small voice. "Or load Chubby up with it, but that is extremely imprecise. If it has anything broken, it might heal it wrong and hurt the beast more than it already is."
+[2024-05-21 21:58:35+01:00] Lanvert Frost Emote:  took back his flask and pocketed it. Yoki received a loose salute in kind. "It's worth throwin' this out there, before you start chargin' your aether: If you patch th' creature up, he may just start feelin' well enough to lunge for us. Might've been huntin' when they crossed paths with th' 'bo, so they could well still be hungry."
+[2024-05-21 22:00:35+01:00] Polarhine Mennarc [Mateus] CrossWorldLinkShell_1: brb bathroom
+[2024-05-21 22:00:37+01:00] Vivira Vira [Balmung] Say: || Chubby runs back to Vivira, and starts to make the same busy movements they normally do when 'sparkling' at someone, but no sparkles are forthcoming. Vivira hold out her large gemmed ring to them, and Chubby boops their nose on it. After that, the lalafell focuses on the ring for a little while. "It's alive. Deep asleep. The wounds seemed to have stopped bleeding, but they look bad."
+[2024-05-21 22:01:16+01:00] Vivira Vira [Balmung] Say: "Well, if Cain can put it in a deep sleep we should be long gone before it wakes, right?"
+[2024-05-21 22:01:17+01:00] Yoki Yokiki [Balmung] Say: "Speaking as the most bite-sized member of this party, I do dislike the idea of, uh, being eaten." A pause. "Almost happened with a morbol... and the frogs... and other occasions. ... I don't even know if this thing has a spell I'd learn from that near-death experience."
+[2024-05-21 22:02:42+01:00] Lanvert Frost Emote:  just stared at Cain and let him answer the question of whether he could keep a beast of the bandersnatch's dimensions unconscious.
+[2024-05-21 22:03:08+01:00] Cain Locke [Balmung] Say: "Good point. We'd best at least have some spellwork or arrows prepared just in case." He peers at Vivira and her ring. "If either Vivira or Yoki and cast a healing spell at it from a range, I can follow that up with a Sleep spell to make sure the beast doesn't wake up after the treatment. If there is one thing I am fairly confident in, it's my thaumaturgy."
+[2024-05-21 22:03:54+01:00] Lanvert Frost Say: "That plan works for me, then. Are we all ready to move?"
+[2024-05-21 22:04:00+01:00] Cain Locke [Balmung] CrossWorldLinkShell_1: Should have probably dropped that 'fairly' to make Cain's assertions sound more plausible, but ah well, maybe that's IC fitting
+[2024-05-21 22:04:42+01:00] Vivira Vira [Balmung] Say: "I don't cast healing from afar," she repeated with a shrug. It wasn't what she'd do, but she also wasn't going to stop anyone else from attempting it.
+[2024-05-21 22:05:55+01:00] Luca Myste [Balmung] Say: "Ready and able."
+[2024-05-21 22:06:34+01:00] Polarhine Mennarc [Mateus] Emote:  nods solemnly, drawing in a deep breath. "Ready."
+[2024-05-21 22:06:55+01:00] Yoki Yokiki [Balmung] Emote:  claps her hands quietly. She draws her rod again. "You're in charge!" she exclaims with a flourish of her instrument. The moment she's instructed to, she'll pop off her spell... which results in a gentle chorus of bells ringing over her head, and healing sorceries rushing towards the beast.
+[2024-05-21 22:08:14+01:00] Lanvert Frost CrossWorldLinkShell_1: I will do the brbs
+[2024-05-21 22:08:22+01:00] Cain Locke [Balmung] Say: "Alright. On a count of three..." Cain steps a bit closer, too, and takes out his staff to stand ready. "One, two..." He closes his eyes to focus aether onto the staff. "...Three."
+[2024-05-21 22:08:34+01:00] Polarhine Mennarc [Mateus] CrossWorldLinkShell_1: is this the moment where I say I think Lanvert is Fern?
+[2024-05-21 22:08:47+01:00] Vivira Vira [Balmung] CrossWorldLinkShell_1: What? Nooooooo
+[2024-05-21 22:08:56+01:00] Vivira Vira [Balmung] CrossWorldLinkShell_1: Chubby is Fern
+[2024-05-21 22:10:07+01:00] Luca Myste [Balmung] CrossWorldLinkShell_1: brb too, apologies!
+[2024-05-21 22:10:08+01:00] Cain Locke [Balmung] CrossWorldLinkShell_3: When the bandersnatch is healed, it stirs a little but doesn't rise; instead, it curls up in a fairly cat-like manner. The wounds on its flanks close up, and the creature looks like it should survive with little issue once it awakens from its extended nap.
+[2024-05-21 22:10:36+01:00] Cain Locke [Balmung] Emote:  sends a swirl of violet-blue aether snaking at the beast immediately after Yoki
+[2024-05-21 22:10:56+01:00] Cain Locke [Balmung] Emote:  sends a swirl of violet-blue aether snaking at the beast immediately after Yoki's spell, making sure that it stays asleep. *
+[2024-05-21 22:11:16+01:00] Polarhine Mennarc [Mateus] Say: ... Good kitty.
+[2024-05-21 22:12:37+01:00] Yoki Yokiki [Balmung] Emote:  proceeds to stow her rod, and does the obligatory victory popoff of a curtsey to the party.
+[2024-05-21 22:13:47+01:00] Vivira Vira [Balmung] Emote:  nods to Chubby, who cat-sneaks towards the beast to see if it worked. They'll know soon enough if it jumps up and mauls the poor Buncle.
+[2024-05-21 22:14:46+01:00] Cain Locke [Balmung] Say: "Good work." Cain puts his staff away and flashes a smile. "Now, let's resume our herb-hunting - once Chubby is back, that is."
+[2024-05-21 22:15:28+01:00] Luca Myste [Balmung] CrossWorldLinkShell_1: back
+[2024-05-21 22:16:05+01:00] Luca Myste [Balmung] Say: "Expertly done, I'd say."
+[2024-05-21 22:16:52+01:00] Polarhine Mennarc [Mateus] Say: Couldn't've done it better myself.
+[2024-05-21 22:17:02+01:00] Lanvert Frost CrossWorldLinkShell_1: back!
+[2024-05-21 22:17:29+01:00] Yoki Yokiki [Balmung] Emote:  blinks. She looks over at Luca. "You think?" she asks, sincere. Then, she squares her shoulders. "Ahem. I don't," she says, splayed fingers over her heart. "It was so simple I wouldn't deign to offer it a compliment." Another pause. "Towards myself, at least. The others did, uh, good. Better than good, even."
+[2024-05-21 22:17:41+01:00] Vivira Vira [Balmung] Emote:  repeats the ritual with her ring when Chubby returns. "Seems to have worked. Now, let's get what we came here for and move out as quickly as possible, no? I don't expect that beast to be happy to see us if we wake it up."
+[2024-05-21 22:18:00+01:00] Vivira Vira [Balmung] CrossWorldLinkShell_1: wb you two!
+[2024-05-21 22:18:26+01:00] Luca Myste [Balmung] Emote:  shrugs. "If you say so. But sometimes even the simplest, smallest acts and gestures deserve praise, in my experience!"
+[2024-05-21 22:18:42+01:00] Lanvert Frost Say: "I'm with the levescribe. Best we start makin' tracks while we can," he agreed. He was watching the bandersnatch carefully as he took the first few steps forward, though.
+[2024-05-21 22:18:44+01:00] Polarhine Mennarc [Mateus] Emote:  nods slowly.
+[2024-05-21 22:19:05+01:00] Cain Locke [Balmung] Emote:  nods and begins moving.
+[2024-05-21 22:20:05+01:00] Yoki Yokiki [Balmung] Say: "... Tsch!"
+[2024-05-21 22:20:19+01:00] Vivira Vira [Balmung] CrossWorldLinkShell_1: I will have to log soon btw! We can say vivira kept as far away from the sleeping bander as possible
+[2024-05-21 22:20:28+01:00] Cain Locke [Balmung] CrossWorldLinkShell_3: The bandersnatch pays no attention to them as they pass it from a safe distance.
+[2024-05-21 22:21:32+01:00] Lanvert Frost CrossWorldLinkShell_1: Nooo sleep is for babies
+[2024-05-21 22:21:38+01:00] Yoki Yokiki [Balmung] CrossWorldLinkShell_1: i wouldn't take my afking to be IC, for what it's worth :P
+[2024-05-21 22:21:44+01:00] Lanvert Frost CrossWorldLinkShell_1: And bandersnatches
+[2024-05-21 22:22:26+01:00] Cain Locke [Balmung] CrossWorldLinkShell_1: Thanks for coming, Vivira! I hope you had fun and Cain will get a good grade at being a levemete
+[2024-05-21 22:22:34+01:00] Polarhine Mennarc [Mateus] CrossWorldLinkShell_1: oh sorry oops
+[2024-05-21 22:24:01+01:00] Vivira Vira [Balmung] CrossWorldLinkShell_1: Thank you for hosting, Cain! Sorry for dipping out earlier but I have to do some CHOREs before bed :( Thanks for the RP everyone
+[2024-05-21 22:24:10+01:00] Vivira Vira [Balmung] CrossWorldLinkShell_1: please don't get killed while I'm goooone
+[2024-05-21 22:24:26+01:00] Yoki Yokiki [Balmung] CrossWorldLinkShell_1: TPK! TPK! TPK!
+[2024-05-21 22:24:46+01:00] Lanvert Frost CrossWorldLinkShell_1: CHORES? At NIGHT? Bah. Good night, Djill!
+[2024-05-21 22:25:23+01:00] Cain Locke [Balmung] CrossWorldLinkShell_3: As the group arrives to a ruined tower, they can quickly spot some greenery sprouting atop it, as well as between stones - though not quite at a level where they could be plucked by simply reaching out
+[2024-05-21 22:25:56+01:00] Cain Locke [Balmung] CrossWorldLinkShell_1: We'll make sure to live; good night!
+[2024-05-21 22:26:41+01:00] Lanvert Frost Emote:  cast his gaze upwards as they approached another old ruin. "This looks more promisin'," he remarked. "Sturdier, at least." He started to circle it, looking for a way up - or in. "Seems to have what we need up top, though I'd have to get up there to check."
+[2024-05-21 22:26:50+01:00] Vivira Vira [Balmung] CrossWorldLinkShell_1: just some washing up I was too lazy to do after dinner, don't judge me T_T
+[2024-05-21 22:27:04+01:00] Vivira Vira [Balmung] CrossWorldLinkShell_1: Oh oh, that sounds like famous last words to me
+[2024-05-21 22:27:13+01:00] Vivira Vira [Balmung] CrossWorldLinkShell_1: but thanks for the RP everyone and good night!
+[2024-05-21 22:27:15+01:00] Polarhine Mennarc [Mateus] CrossWorldLinkShell_1: goodnight vivira! :D
+[2024-05-21 22:27:31+01:00] Lanvert Frost CrossWorldLinkShell_1: You don't just abandon that stuff for 24 hours or more? Damn, you're tidy..
+[2024-05-21 22:27:32+01:00] Luca Myste [Balmung] Say: "Quite a ways up..."
+[2024-05-21 22:27:46+01:00] Yoki Yokiki [Balmung] Say: "... I could, uh, summon a gust of wind to help you with the hook thing? Though I feel there's others here more adept at such magic."
+[2024-05-21 22:27:59+01:00] Cain Locke [Balmung] Say: "This place definitely fits the profile. Hopefully there are some stairs left..."
+[2024-05-21 22:28:07+01:00] Vivira Vira [Balmung] CrossWorldLinkShell_1: Maybe I already did that *gulps*
+[2024-05-21 22:28:14+01:00] Vivira Vira [Balmung] CrossWorldLinkShell_1: alright byeeee
+[2024-05-21 22:28:22+01:00] Luca Myste [Balmung] Say: "We should be so lucky!"
+[2024-05-21 22:28:42+01:00] Luca Myste [Balmung] Emote:  peeks around the corner and inside.
+[2024-05-21 22:29:24+01:00] Lanvert Frost Say: "Luck be a lady, then. She's on our side." He whistled, stepping forward and looking up, and up, and up, to make sure all the flights were in working order, intact.
+[2024-05-21 22:31:21+01:00] Cain Locke [Balmung] CrossWorldLinkShell_3: Thanks to the locals' tendency to build everything out of stone, the stairs haven't rotted away and seem serviceable for the most part. There are some gaps, so caution is wise, but the structure doesn't look like it'll collapse unless they starts intensely jumping up and down on it.
+[2024-05-21 22:31:35+01:00] Luca Myste [Balmung] Say: "Now it becomes 'let's hope the stairs don't collapse with us on them'."
+[2024-05-21 22:32:32+01:00] Cain Locke [Balmung] Say: "Since they are made of stone, it shouldn't be a matter of sending someone light-footed to test them out, I hope."
+[2024-05-21 22:33:09+01:00] Yoki Yokiki [Balmung] Say: "... I mean, you could catch me if something went wrong, right?"
+[2024-05-21 22:33:31+01:00] Luca Myste [Balmung] Say: "Between the four of us? Absolutely."
+[2024-05-21 22:34:30+01:00] Yoki Yokiki [Balmung] Emote:  squares up, making ready to begin her ascent, once given permission.
+[2024-05-21 22:35:56+01:00] Cain Locke [Balmung] Emote:  looks concerned for a moment, but he nods as he steps inside, if a bit hesitantly. "Alright, Yoki. When you are ready, feel free to."
+[2024-05-21 22:36:33+01:00] Lanvert Frost Say: "I'll follow, just in case somethin's made its nest up there," Lanvert told her.
+[2024-05-21 22:36:54+01:00] Yoki Yokiki [Balmung] Emote:  peers over at Lanvert. "... Well, per etiquette, you should really be going first, then."
+[2024-05-21 22:37:16+01:00] Yoki Yokiki [Balmung] Emote:  pauses. "Or did I get it backwards? Eh."
+[2024-05-21 22:37:21+01:00] Yoki Yokiki [Balmung] Emote:  shrugs, then goes up.
+[2024-05-21 22:37:33+01:00] Lanvert Frost Emote:  also shrugged, following close behind.
+[2024-05-21 22:38:15+01:00] Yoki Yokiki [Balmung] Say: "... I didn't realize there'd be so much hiking today
+[2024-05-21 22:38:50+01:00] Lanvert Frost Say: "That's botany for you. Walkin', walkin', and then a little more, just as a treat."
+[2024-05-21 22:39:40+01:00] Yoki Yokiki [Balmung] Say: "I'm glad I became a spellslinger and not a gardener, then."
+[2024-05-21 22:39:44+01:00] Cain Locke [Balmung] CrossWorldLinkShell_3: A bit of dust is sent flying by Yoki's and Lanvert's boots as they ascend the stairs. However, as long as they proceed relatively calmly, nothing is coming off or even letting suspicious sounds like cracks.
+[2024-05-21 22:40:21+01:00] Cain Locke [Balmung] CrossWorldLinkShell_1: I'll do a quick OOC check outside the tower, don't mind me
+[2024-05-21 22:41:06+01:00] Yoki Yokiki [Balmung] Emote:  taps her chin. "I think shorts are in a weird territory as far as the etiquette of stairs are concerned. I'll have to research this. Sorry. Normally I'm dressed more for visual effect than practical."
+[2024-05-21 22:41:27+01:00] Lanvert Frost Emote:  was surprisingly light of foot for being perhaps the heaviest member of the group, and he kept a wary eye out as they ascended, squinting at each shadow they approached. "Coast's clear," he called down, hopefully loud enough to be heard without disturbing stone. "Seems stable enough."
+[2024-05-21 22:42:02+01:00] Lanvert Frost Say: "I'm- not. ...Not lookin', miss." He cleared his throat and turned to the plants.
+[2024-05-21 22:42:52+01:00] Yoki Yokiki [Balmung] Emote:  flutters a hand. "Don't say that, it just makes me suspicious. A proper gentleman would simply nod their head and accept my musings instead of defending themself."
+[2024-05-21 22:43:00+01:00] Cain Locke [Balmung] Emote:  has been keeping vigil downstairs and catches the call. "Seems like we are safe to climb. Do you want to go first or let me, Yoki and Polar?"
+[2024-05-21 22:43:59+01:00] Luca Myste [Balmung] Say: "I'm off up there! I've got to make myself useful!"
+[2024-05-21 22:44:37+01:00] Yoki Yokiki [Balmung] Say: "... Oh. They're coming up. Would it be flattering if I was... sitting? Legs over the ledge, dangling? Maybe one pulled up a bit. It would create quite the silhouette..."
+[2024-05-21 22:44:43+01:00] Yoki Yokiki [Balmung] Say: "... She's almost here, fast, Yoki!"
+[2024-05-21 22:44:58+01:00] Cain Locke [Balmung] CrossWorldLinkShell_3: The tower seems unoccupied by other living beings besides them - and grapple plant. Fairly lush bunches are growing on the higher walls and on their crumbled tops, and even a few modest flowers are blooming.
+[2024-05-21 22:45:01+01:00] Luca Myste [Balmung] Say: "There you are. And what's that strikng silhouette?"
+[2024-05-21 22:45:09+01:00] Luca Myste [Balmung] Say: "Oh, it's miss Yoki!"
+[2024-05-21 22:45:23+01:00] Lanvert Frost Emote:  obediently nodded. "Right you are, miss. Apologies." He chuckled at her dilemma, though.
+[2024-05-21 22:45:31+01:00] Yoki Yokiki [Balmung] Emote:  looks over at the ascending Luca, and shifts her head enough to toss some hair. "Oh. Who could it be but the others. Yes, my ascent was kind, and now I am simply relaxing while I lookout. Don't mind me."
+[2024-05-21 22:46:15+01:00] Luca Myste [Balmung] Say: "Looks like we hit the jackpot."
+[2024-05-21 22:48:16+01:00] Cain Locke [Balmung] Say: "It really does, right? That's good news. Our client should be happy, and I reckon there's enough for you to grab some too, if you want it for your potions." Cain pulls out a knife. "Let's see if we can get some leaves and more roots now. Cutting the plants off should be a good plan, right?"
+[2024-05-21 22:50:05+01:00] Luca Myste [Balmung] Emote:  nods. "A stem cut would be best, if you want to leave some to regrow. But there's plenty here, even so."
+[2024-05-21 22:50:46+01:00] Lanvert Frost Say: "If you can work them out of th' stone without damaging them, that's always best. Plants keep better when they're whole, and if these have got some travellin' to do, that's our goal." He nodded at Luca's input as well. "And that, if you want th' plant to survive after takin' what we need."
+[2024-05-21 22:51:35+01:00] Yoki Yokiki [Balmung] Say: "I do appreciate an accidental rhyming."
+[2024-05-21 22:53:01+01:00] Lanvert Frost Say: "Heh, didn't catch that. I appreciate th' intended kind, though. Don't often get to hear wordsmiths at their work."
+[2024-05-21 22:53:35+01:00] Luca Myste [Balmung] Say: "I'll just take a little for myself, then...!"
+[2024-05-21 22:53:57+01:00] Yoki Yokiki [Balmung] Say: "... You are from these parts, I take it? I'd imagine Ishgardians are an awfully romantic sort. Surely you hear dirges and dedications alike? Ah, to have someone appear at my window with lute and lyric in mind... what a dream!"
+[2024-05-21 22:54:01+01:00] Luca Myste [Balmung] Emote:  brandishes her little knife and attempts to - surgically - collect some of the herb. Steady... steady...
+[2024-05-21 22:54:12+01:00] Yoki Yokiki [Balmung] Emote:  cups her cheek as she looks in the distance, clearly indulging in an overly romantic fantasy.
+[2024-05-21 22:55:34+01:00] Cain Locke [Balmung] Emote:  glances at the grapple plants growing on the walls. He carefully pokes it and has to quickly withdraw his finger when the leaves curl and try to catch it. "This isn't the Shroud, but being respectful and allowing it to regrow sounds like a good plan." He sets to work as well, though he glances at Luca every now and then to try to make sure he is cutting the plants in a proper manner.
+[2024-05-21 22:56:10+01:00] Luca Myste [Balmung] Emote:  manages to collect a nice little amount, and leaves the stem intact for future growth while she's at it. A rare win for the half-Elezen! Hurray! "Depends on the Ishgardian," she mumbles.
+[2024-05-21 22:57:22+01:00] Cain Locke [Balmung] Say: "...Not as easy as it looks like," Cain mumbles to himself after he manages to slice through several leaves, roots and even stems despite his best intents.
+[2024-05-21 22:57:31+01:00] Lanvert Frost Emote:  helped collect some of the plants up near where Yoki was situated. He was careful but quick, like he'd done this before, and didn't mind too much if the plants got handsy with him. "I wouldn't say I'm Ishgardian," he told her. "Coerthan, more so. Didn't hear much in th' way of dirges and th' like on th' farm where I grew up. Heard they got fancy operas and stuff in th' city proper, though."
+[2024-05-21 22:57:45+01:00] Polarhine Mennarc [Mateus] Say: Coast is clear, so far.
+[2024-05-21 22:58:27+01:00] Cain Locke [Balmung] Say: "Good to hear, Polar. Seems like you might've avoided target practice this time, whether it's a good or a bad thing."
+[2024-05-21 22:58:39+01:00] Yoki Yokiki [Balmung] Say: "... Well, surely farm-folk sing songs about, I don't know.... uh. Nature. Uh, love. And, uh, small insignificant quarrels with their neighbors."
+[2024-05-21 22:58:52+01:00] Yoki Yokiki [Balmung] Say: "Oh! And travelling! Lots of travelling!"
+[2024-05-21 22:58:57+01:00] Yoki Yokiki [Balmung] Say: "And beer!"
+[2024-05-21 22:59:17+01:00] Polarhine Mennarc [Mateus] Say: It's a win-win situation, really. No target practice means we all get to return home, keep our health n'stuff.
+[2024-05-21 23:00:03+01:00] Cain Locke [Balmung] Say: "True enough. We ended up doing some trekking this time, but at least we get paid for the trouble, right?"
+[2024-05-21 23:00:18+01:00] Lanvert Frost Emote:  laughed warmly. "Aye, my grandsire knew a dirty limerick or two, and th' lads'd sometimes sing of... well, there was music of a sort when they were in their cups. That, I'll admit."
+[2024-05-21 23:01:22+01:00] Polarhine Mennarc [Mateus] Say: Y-hup! Gonna buy somethin' nice? Or y'like to save up for rainy weather?
+[2024-05-21 23:02:52+01:00] Yoki Yokiki [Balmung] Say: "Ahh, dirty music. Like your hands being finely hardened from a day's work. The sweat on your brow. The pride in your heart. Yes, yes, how delightfully rustic."
+[2024-05-21 23:03:32+01:00] Yoki Yokiki [Balmung] Say: "Outdoorsy-sorts can be so romantic sometimes, especially when they don't realize they're doing it. I love a manicure, but sometimes there's just something -rugged- about it."
+[2024-05-21 23:03:44+01:00] Cain Locke [Balmung] Say: "Well... Vivira did say something about jewelry shopping in Ishgard a little while ago. Not sure if I'll buy anything there for myself, at least, but... might take a look. Although I do prefer to have a bit saved up when I can. What about yourself?"
+[2024-05-21 23:04:27+01:00] Luca Myste [Balmung] Say: "I managed to get quite a bit, if you still need some for the client, Cain."
+[2024-05-21 23:04:45+01:00] Polarhine Mennarc [Mateus] Say: A third for---
+[2024-05-21 23:04:57+01:00] Polarhine Mennarc [Mateus] Emote:  stops when Cain's name is called out, glancing up at the source.
+[2024-05-21 23:06:48+01:00] Cain Locke [Balmung] Say: "Oh, I'd... appreciate that, actually. Thanks Luca." Cain steps closer and reaches a hand so Luca can hand the herbs over; he will then carefully wrap them in a cloth and put away. "What were you saying, Polar? A third of the sum for something specific?"
+[2024-05-21 23:06:51+01:00] Lanvert Frost Emote:  reached into his pocket and pulled out a length of twine, which he carefully bundled the plants in. "You're into that sort of thing, huh. Heh. Well, I've done all sorts of work since then. I guess I'm an 'outdoorsy' sort any way you shake it, though. I spent more time under the skies than under a ceiling. Can't stand being penned in."
+[2024-05-21 23:07:39+01:00] Luca Myste [Balmung] Emote:  hands over a handful of carefully collected herbage. "It usually doesn't go that well," she whispers.
+[2024-05-21 23:08:22+01:00] Yoki Yokiki [Balmung] Emote:  chuckles a touch. "I'm into a lot of things. Fortunately, I know better than to indulge. Unfortunately, I'd be doomed if I tried anyway." She scoots onto her feet, and kicks dirt from the soles of her thighboots. "I am as I will always be, single and dangerously unavailable." She skips down the stairs a touch.
+[2024-05-21 23:08:51+01:00] Yoki Yokiki [Balmung] Say: "Apologies for not really contributing to the laboring part of adventuring, but how're things going?"
+[2024-05-21 23:09:06+01:00] Polarhine Mennarc [Mateus] Say: Oh, uhm... Yes, a third to my reserves, another to my family, and the last to buy foods for guests visitin' my place in three days from now.
+[2024-05-21 23:09:53+01:00] Cain Locke [Balmung] Emote:  chuckles quietly at Luca. "Makes it all the nicer when it does succeed, I reckon, eh? Nice work nevertheless."
+[2024-05-21 23:10:11+01:00] Lanvert Frost Emote:  sounded off a hum of acknowledgement. Perhaps taking her advice from earlier, he just nodded at her musings. "You and me both," he murmured after she wandered off, focusing on acquiring clippings.
+[2024-05-21 23:10:41+01:00] Luca Myste [Balmung] Emote:  gives a nod. "I'll go keep watch at the bottom for a bit, make sure the coast is clear."
+[2024-05-21 23:11:00+01:00] Cain Locke [Balmung] Say: "I think we are about ready to wrap up and head back, Yoki. You're going to have guests, Polar?"
+[2024-05-21 23:11:08+01:00] Luca Myste [Balmung] CrossWorldLinkShell_1: i'm gonna have to scoot for sleep - thank you for the event!
+[2024-05-21 23:11:24+01:00] Cain Locke [Balmung] CrossWorldLinkShell_1: Thanks for coming, and hope you had fun!
+[2024-05-21 23:11:47+01:00] Luca Myste [Balmung] CrossWorldLinkShell_1: i did! herbalism skill increased
+[2024-05-21 23:12:20+01:00] Polarhine Mennarc [Mateus] Say: Ay-hup. Made a few friends over at a Sunseeker tribe, branched out from there. Thought I'd bring them in under one roof - again.
+[2024-05-21 23:13:03+01:00] Polarhine Mennarc [Mateus] Say: ... Hells, I've gotta start lookin' into invitin' y'all too some day, now that I mention it.
+[2024-05-21 23:13:24+01:00] Polarhine Mennarc [Mateus] Say: Yoki! I think we're doin' great here.
+[2024-05-21 23:14:27+01:00] Yoki Yokiki [Balmung] Emote:  pops a thumbs-up!
+[2024-05-21 23:14:59+01:00] Lanvert Frost Emote:  tied up his haul and put his knife back into the sheath on his boot, then started to descend. "Got all I feel I should take from up there. I'll meet you folks down at th' bottom," he told them on his way past.
+[2024-05-21 23:15:18+01:00] Cain Locke [Balmung] Say: "Reuniting with friends, hm? That sounds nice. Hopefully we get to see your place one day, too."
+[2024-05-21 23:15:37+01:00] Lanvert Frost CrossWorldLinkShell_1: Same for me, I'll hit the hay! Really pound it. Make it regret crossing me.
+[2024-05-21 23:15:39+01:00] Polarhine Mennarc [Mateus] Say: Mmmmmmmh. Aye, count on it.
+[2024-05-21 23:15:52+01:00] Lanvert Frost CrossWorldLinkShell_1: Thanks for hosting, Cain!
+[2024-05-21 23:16:05+01:00] Cain Locke [Balmung] CrossWorldLinkShell_1: Don't just hit the hay, slay it - and thanks for coming! Lanvert seems like a cool guy
+[2024-05-21 23:16:07+01:00] Polarhine Mennarc [Mateus] CrossWorldLinkShell_1: good night not-Fern!
+[2024-05-21 23:16:30+01:00] Lanvert Frost CrossWorldLinkShell_1: He's a swell dude, even
+[2024-05-21 23:16:34+01:00] Yoki Yokiki [Balmung] CrossWorldLinkShell_1: get lost
+[2024-05-21 23:16:44+01:00] Lanvert Frost CrossWorldLinkShell_1: Good night, friends! This is definitely not Fern
+[2024-05-21 23:16:50+01:00] Polarhine Mennarc [Mateus] CrossWorldLinkShell_1: o/
+[2024-05-21 23:16:57+01:00] Cain Locke [Balmung] Emote:  makes sure the herbs are safe and sound and then turns. "Well, time for us to head down and out, too. Mission accomplished, we could say."
+[2024-05-21 23:17:12+01:00] Yoki Yokiki [Balmung] Emote:  stretches her arms far above her head. "Good, great! Off to a well-deserved rest!"
+[2024-05-21 23:17:35+01:00] Gobchat GobchatError: Can't find a running instance of FFXIV.
